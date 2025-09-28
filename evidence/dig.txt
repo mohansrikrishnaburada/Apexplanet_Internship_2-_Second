@@ -1,0 +1,7 @@
+example.com.		300	IN	A	23.192.228.80
+example.com.		300	IN	A	23.192.228.84
+example.com.		300	IN	A	23.215.0.136
+example.com.		300	IN	A	23.220.75.245
+example.com.		300	IN	A	23.220.75.232
+example.com.		300	IN	A	23.215.0.138
+example.com.		300	IN	RRSIG	A 13 2 300 20251012001939 20250921050307 31080 example.com. NkUmKgNd2w00pQvP1f0Yu0+mwM26fk8m6CUZPUg/S5SPOcD29DRyRM4Q Rmlx101uGnBt/2XBaXNhZo3ZmQaP0w==

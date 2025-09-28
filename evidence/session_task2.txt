@@ -1,0 +1,1121 @@
+Script started on 2025-09-28 15:40:01+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="71" LINES="34"]
+                                                                       ]0;kali@kali: ~/lab-practice[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/lab-practice[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hi[4mi[24m[4mi[4mp[24m[24m[36mi[24m[36mp[39m[36mi[36mp[36m [39m[36mi[36mp[39m[39m a >[1m[34m>[0m[39m[1m[34m>[1m[34m [0m[39m[1m[34m>[0m[39m[0m[39m ~[1m~[0m[1m~[1m/[0m[1m/[1ml[0m[1ml[1ma[0m[1ma[1mb[0m[1mb[1m-[0m[1m-[1mp[0m[1mp[1mr[0m[1mr[1ma[0m[1ma[1mc[0m[1mc[1mt[0m[1mt[1mi[0m[1mi[1mc[0m[1mc[1me[0m[1me[1m/[0m[1m/[1me[0m[1me[1mv[0m[1mv[1mi[0m[1mi[1md[0m[1md[1me[0m[1me[1mn[0m[1mn[1mc[0m[1mc[1me[0m[1me[1m/[0m[1m/[1mm[0m[25D[0m~[0m/[0ml[0ma[0mb[0m-[0mp[0mr[0ma[0mc[0mt[0mi[0mc[0me[0m/[0me[0mv[0mi[0md[0me[0mn[0mc[0me[0m/[0mmy_ip.txt[?1l>[?2004l
+                                                                       ]0;kali@kali: ~/lab-practice
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/lab-practice[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004ha[4ma[24m[4ma[4mr[24m[24m[36ma[24m[36mr[39m[36ma[36mr[36mp[39m[36mp[36m [39m[36mp[39m[39m -[32m-[39m[32m-[32ma[39m[32ma[32m [39m[32ma[39m[39m >[1m[34m>[0m[39m[1m[34m>[1m[34m [0m[39m[1m[34m>[0m[39m[0m[39m ~[1m~[0m[1m~[1m/[0m[1m/[1ml[0m[1ml[1ma[0m[1ma[1mb[0m[1mb[1m-[0m[1m-[1mp[0m[1mp[1mr[0m[1mr[1ma[0m[1ma[1mc[0m[1mc[1mt[0m[1mt[1mi[0m[1mi[1mc[0m[1mc[1me[0m[1me[1m/[0m[1m/[1me[0m[1me[1mv[0m[1mv[1mi[0m[1mi[1md[0m[1md[1me[0m[1me[1mn[0m[1mn[1mc[0m[1mc[1me[0m[1me[1m/[0m[1m/[1ma[0m[25D[0m~[0m/[0ml[0ma[0mb[0m-[0mp[0mr[0ma[0mc[0mt[0mi[0mc[0me[0m/[0me[0mv[0mi[0md[0me[0mn[0mc[0me[0m/[0marp_table.txt[?1l>[?2004l
+                                                                       ]0;kali@kali: ~/lab-practice
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/lab-practice[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hw[36mw[39m[36mw[36mh[39m[39m[4mw[39m[4mh[24m[4mw[4mh[4mo[24m[24m[36mw[24m[36mh[24m[36mo[39m[36mo[36mi[39m[39m[4mw[39m[4mh[39m[4mo[39m[4mi[24m[4mi[4ms[24m[24m[36mw[24m[36mh[24m[36mo[24m[36mi[24m[36ms[39m[36ms[36m [39m[36ms[39m[39m e[1me[0m[1me[1mx[0m[0me[0mxample.com >[1m[34m>[0m[39m[1m[34m>[1m[34m [0m[39m[1m[34m>[0m[39m[0m[39m ~[1m~[0m[1m~[1m/[0m[1m/[1m1[0m[0m~[0m/[0m1 [1m~[1m/[0m[1m/[1ml[0m[1ml[1ma[0m[1ma[1mb[0m[1mb[1m-[0m[1m-[1mp[0m[1mp[1mr[0m[1mr[1ma[0m[1ma[1mc[0m[1mc[1mt[0m[1mt[1mi[0m[1mi[1mc[0m[1mc[1me[0m[1me[1m/[0m[1m/[1me[0m[1me[1mb[0m[17D[0m~[0m/[0ml[0ma[0mb[0m-[0mp[0mr[0ma[0mc[0mt[0mi[0mc[0me[0m/[0me[0mb [16D[1m~[1m/[1ml[1ma[1mb[1m-[1mp[1mr[1ma[1mc[1mt[1mi[1mc[1me[1m/[1me[0m[1me[1mv[0m[1mv[1mi[0m[1mi[1md[0m[1md[1me[0m[1me[1mn[0m[1mn[1mc[0m[1mc[1me[0m[1me[1m/[0m[1m/[1mw[0m[25D[0m~[0m/[0ml[0ma[0mb[0m-[0mp[0mr[0ma[0mc[0mt[0mi[0mc[0me[0m/[0me[0mv[0mi[0md[0me[0mn[0mc[0me[0m/[0mwhois.txt[?1l>[?2004l
+                                                                       ]0;kali@kali: ~/lab-practice
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/lab-practice[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hn[4mn[24m[4mn[4ms[24m[4mn[4ms[4ml[24m[4ml[4mo[24m[4mo[4mo[24m[4mo[4mk[24m[4mk[4mu[24m[4mu[4mp[24m[8D[24m[36mn[24m[36ms[24m[36ml[24m[36mo[24m[36mo[24m[36mk[24m[36mu[24m[36mp[39m[36mp[36m [39m[36mp[39m[39m e[1me[0m[1me[1mx[0m[0me[0mxample.com >[1m[34m>[0m[39m[1m[34m>[1m[34m [0m[39m[1m[34m>[0m[39m[0m[39m ~[1m~[0m[1m~[1m/[0m[1m/[1ml[0m[1ml[1ma[0m[1ma[1mb[0m[1mb[1m-[0m[1m-[1mp[0m[1mp[1mr[0m[1mr[1ma[0m[1ma[1mc[0m[1mc[1mt[0m[1mt[1mi[0m[1mi[1mc[0m[1mc[1me[0m[1me[1m/[0m[1m/[1me[0m[1me[1mv[0m[1mv[1mi[0m[1mi[1md[0m[1md[1me[0m[1me[1mn[0m[1mn[1mc[0m[1mc[1me[0m[1me[1m/[0m[1m/[1mn[0m[25D[0m~[0m/[0ml[0ma[0mb[0m-[0mp[0mr[0ma[0mc[0mt[0mi[0mc[0me[0m/[0me[0mv[0mi[0md[0me[0mn[0mc[0me[0m/[0mnslookup.txt[?1l>[?2004l
+                                                                       ]0;kali@kali: ~/lab-practice
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/lab-practice[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hd[1md[0m[1md[1mi[0m[0m[4md[0m[4mi[24m[4md[4mi[4mf[24m[4md[4mi[24m[24m [4md[4mi[4mg[24m[24m[36md[24m[36mi[24m[36mg[39m[36mg[36m [39m[36mg[39m[39m e[1me[0m[1me[1mx[0m[0me[0mxample.com ANY +np oall +answer >[1m[34m>[0m[39m[1m[34m>[1m[34m [0m[39m[1m[34m>[0m[39m[0m[39m ~[1m~[0m[1m~[1m/[0m[1m/[1ml[0m[1ml[1ma[0m[1ma[1mb[0m[1mb[1m-[0m[1m-[1mp[0m[1mp[1mr[0m[1mr[1ma[0m[1ma[1mc[0m[1mc[1mt[0m[1mt[1mi[0m[1mi[1mc[0m[1mc[1me[0m[1me[1m/[0m[1m/[1me[0m[1me[1mv[0m[1mv[1mi[0m[1mi[1md[0m[1md[1me[0m[1me[1mn[0m[1mn[1mc[0m[1mc[1me[0m[1me[1m/[0m[1m/[1md[0m[25D[0m~[0m/[0ml[0ma[0mb[0m-[0mp[0mr[0ma[0mc[0mt[0mi[0mc[0me[0m/[0me[0mv[0mi[0md[0me[0mn[0mc[0me[0m/[0mdig.tx [K[Kt[?1l>[?2004l
+                                                                       ]0;kali@kali: ~/lab-practice
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/lab-practice[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hn[4mn[24m[4mn[24m[38;5;244mslookup example.com > ~/lab-practice/evidence/nslookup.txt[39m[58D[4mn[39m[4mm[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [57D[24m[36mn[24m[36mm[39m[36mn[36mm[36ma[39m[39m[4mn[39m[4mm[39m[4ma[24m[4ma[4mp[24m[24m[36mn[24m[36mm[24m[36ma[24m[36mp[39m[36mp[36m [39m[36mp[39m[39m -[32m-[39m[32m-[32ms[39m[32ms[32mn[39m[32mn[32m [39m[32mn[39m[39m 192.168.56.0/24 -[32m-[39m[32m-[32mo[39m[32mo[32mN[39m[32mN[32m [39m[32mN[39m[39m ~[1m~[0m[1m~[1m/[0m[1m/[1ml[0m[1ml[1ma[0m[1ma[1mb[0m[1mb[1m-[0m[1m-[1mp[0m[1mp[1mr[0m[1mr[1mc[0m[1mr[0m[0m [1mr[1ma[0m[1ma[1mc[0m[1mc[1mt[0m[1mt[1mi[0m[1mi[1mc[0m[1mc[1me[0m[1me[1m/[0m[1m/[1ms[0m[1ms[1mc[0m[1mc[1ma[0m[1ma[1mm[0m[19D[0m~[0m/[0ml[0ma[0mb[0m-[0mp[0mr[0ma[0mc[0mt[0mi[0mc[0me[0m/[0ms[0mc[0ma[0mm [18D[1m~[1m/[1ml[1ma[1mb[1m-[1mp[1mr[1ma[1mc[1mt[1mi[1mc[1me[1m/[1ms[1mc[1ma[0m[1ma[1mn[0m[1mn[1ms[0m[1ms[1m/[0m[1m/[1mp[0m[22D[0m~[0m/[0ml[0ma[0mb[0m-[0mp[0mr[0ma[0mc[0mt[0mi[0mc[0me[0m/[0ms[0mc[0ma[0mn[0ms[0m/[0mping_sweep.txt[?1l>[?2004l
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-09-28 15:46 IST
+Nmap scan report for 192.168.56.0
+Host is up (0.0028s latency).
+Nmap scan report for 192.168.56.1
+Host is up (0.0035s latency).
+Nmap scan report for 192.168.56.2
+Host is up (0.0058s latency).
+Nmap scan report for 192.168.56.3
+Host is up (0.0062s latency).
+Nmap scan report for 192.168.56.4
+Host is up (0.0061s latency).
+Nmap scan report for 192.168.56.5
+Host is up (0.0059s latency).
+Nmap scan report for 192.168.56.6
+Host is up (0.0053s latency).
+Nmap scan report for 192.168.56.7
+Host is up (0.0053s latency).
+Nmap scan report for 192.168.56.8
+Host is up (0.0053s latency).
+Nmap scan report for 192.168.56.9
+Host is up (0.0057s latency).
+Nmap scan report for 192.168.56.10
+Host is up (0.0056s latency).
+Nmap scan report for 192.168.56.11
+Host is up (0.00084s latency).
+Nmap scan report for 192.168.56.12
+Host is up (0.00083s latency).
+Nmap scan report for 192.168.56.13
+Host is up (0.0019s latency).
+Nmap scan report for 192.168.56.14
+Host is up (0.0018s latency).
+Nmap scan report for 192.168.56.15
+Host is up (0.00083s latency).
+Nmap scan report for 192.168.56.16
+Host is up (0.0034s latency).
+Nmap scan report for 192.168.56.17
+Host is up (0.0040s latency).
+Nmap scan report for 192.168.56.18
+Host is up (0.0039s latency).
+Nmap scan report for 192.168.56.19
+Host is up (0.0039s latency).
+Nmap scan report for 192.168.56.20
+Host is up (0.0039s latency).
+Nmap scan report for 192.168.56.21
+Host is up (0.0042s latency).
+Nmap scan report for 192.168.56.22
+Host is up (0.0042s latency).
+Nmap scan report for 192.168.56.23
+Host is up (0.0020s latency).
+Nmap scan report for 192.168.56.24
+Host is up (0.0020s latency).
+Nmap scan report for 192.168.56.25
+Host is up (0.0020s latency).
+Nmap scan report for 192.168.56.26
+Host is up (0.0052s latency).
+Nmap scan report for 192.168.56.27
+Host is up (0.0028s latency).
+Nmap scan report for 192.168.56.28
+Host is up (0.0015s latency).
+Nmap scan report for 192.168.56.29
+Host is up (0.0015s latency).
+Nmap scan report for 192.168.56.30
+Host is up (0.00098s latency).
+Nmap scan report for 192.168.56.31
+Host is up (0.00097s latency).
+Nmap scan report for 192.168.56.32
+Host is up (0.0051s latency).
+Nmap scan report for 192.168.56.33
+Host is up (0.0046s latency).
+Nmap scan report for 192.168.56.34
+Host is up (0.0050s latency).
+Nmap scan report for 192.168.56.35
+Host is up (0.0049s latency).
+Nmap scan report for 192.168.56.36
+Host is up (0.0053s latency).
+Nmap scan report for 192.168.56.37
+Host is up (0.0052s latency).
+Nmap scan report for 192.168.56.38
+Host is up (0.00097s latency).
+Nmap scan report for 192.168.56.39
+Host is up (0.00097s latency).
+Nmap scan report for 192.168.56.40
+Host is up (0.00089s latency).
+Nmap scan report for 192.168.56.41
+Host is up (0.0015s latency).
+Nmap scan report for 192.168.56.42
+Host is up (0.0020s latency).
+Nmap scan report for 192.168.56.43
+Host is up (0.00083s latency).
+Nmap scan report for 192.168.56.44
+Host is up (0.00095s latency).
+Nmap scan report for 192.168.56.45
+Host is up (0.0020s latency).
+Nmap scan report for 192.168.56.46
+Host is up (0.0019s latency).
+Nmap scan report for 192.168.56.47
+Host is up (0.00096s latency).
+Nmap scan report for 192.168.56.48
+Host is up (0.0027s latency).
+Nmap scan report for 192.168.56.49
+Host is up (0.0021s latency).
+Nmap scan report for 192.168.56.50
+Host is up (0.0020s latency).
+Nmap scan report for 192.168.56.51
+Host is up (0.0028s latency).
+Nmap scan report for 192.168.56.52
+Host is up (0.0027s latency).
+Nmap scan report for 192.168.56.53
+Host is up (0.0026s latency).
+Nmap scan report for 192.168.56.54
+Host is up (0.0028s latency).
+Nmap scan report for 192.168.56.55
+Host is up (0.0012s latency).
+Nmap scan report for 192.168.56.56
+Host is up (0.0012s latency).
+Nmap scan report for 192.168.56.57
+Host is up (0.0019s latency).
+Nmap scan report for 192.168.56.58
+Host is up (0.0019s latency).
+Nmap scan report for 192.168.56.59
+Host is up (0.0018s latency).
+Nmap scan report for 192.168.56.60
+Host is up (0.0012s latency).
+Nmap scan report for 192.168.56.61
+Host is up (0.0012s latency).
+Nmap scan report for 192.168.56.62
+Host is up (0.0020s latency).
+Nmap scan report for 192.168.56.63
+Host is up (0.0019s latency).
+Nmap scan report for 192.168.56.64
+Host is up (0.0019s latency).
+Nmap scan report for 192.168.56.65
+Host is up (0.0018s latency).
+Nmap scan report for 192.168.56.66
+Host is up (0.0025s latency).
+Nmap scan report for 192.168.56.67
+Host is up (0.0026s latency).
+Nmap scan report for 192.168.56.68
+Host is up (0.0017s latency).
+Nmap scan report for 192.168.56.69
+Host is up (0.0014s latency).
+Nmap scan report for 192.168.56.70
+Host is up (0.0040s latency).
+Nmap scan report for 192.168.56.71
+Host is up (0.0038s latency).
+Nmap scan report for 192.168.56.72
+Host is up (0.0037s latency).
+Nmap scan report for 192.168.56.73
+Host is up (0.0037s latency).
+Nmap scan report for 192.168.56.74
+Host is up (0.0014s latency).
+Nmap scan report for 192.168.56.75
+Host is up (0.0014s latency).
+Nmap scan report for 192.168.56.76
+Host is up (0.0035s latency).
+Nmap scan report for 192.168.56.77
+Host is up (0.0035s latency).
+Nmap scan report for 192.168.56.78
+Host is up (0.0034s latency).
+Nmap scan report for 192.168.56.79
+Host is up (0.0018s latency).
+Nmap scan report for 192.168.56.80
+Host is up (0.0018s latency).
+Nmap scan report for 192.168.56.81
+Host is up (0.0037s latency).
+Nmap scan report for 192.168.56.82
+Host is up (0.0037s latency).
+Nmap scan report for 192.168.56.83
+Host is up (0.0018s latency).
+Nmap scan report for 192.168.56.84
+Host is up (0.0018s latency).
+Nmap scan report for 192.168.56.85
+Host is up (0.00079s latency).
+Nmap scan report for 192.168.56.86
+Host is up (0.00076s latency).
+Nmap scan report for 192.168.56.87
+Host is up (0.0015s latency).
+Nmap scan report for 192.168.56.88
+Host is up (0.0015s latency).
+Nmap scan report for 192.168.56.89
+Host is up (0.0013s latency).
+Nmap scan report for 192.168.56.90
+Host is up (0.0013s latency).
+Nmap scan report for 192.168.56.91
+Host is up (0.0013s latency).
+Nmap scan report for 192.168.56.92
+Host is up (0.0013s latency).
+Nmap scan report for 192.168.56.93
+Host is up (0.0015s latency).
+Nmap scan report for 192.168.56.94
+Host is up (0.0017s latency).
+Nmap scan report for 192.168.56.95
+Host is up (0.0011s latency).
+Nmap scan report for 192.168.56.96
+Host is up (0.0011s latency).
+Nmap scan report for 192.168.56.97
+Host is up (0.0011s latency).
+Nmap scan report for 192.168.56.98
+Host is up (0.0017s latency).
+Nmap scan report for 192.168.56.99
+Host is up (0.0017s latency).
+Nmap scan report for 192.168.56.100
+Host is up (0.0049s latency).
+Nmap scan report for 192.168.56.101
+Host is up (0.00059s latency).
+Nmap scan report for metasploitable2.local (192.168.56.102)
+Host is up (0.016s latency).
+Nmap scan report for 192.168.56.103
+Host is up (0.0029s latency).
+Nmap scan report for 192.168.56.104
+Host is up (0.0018s latency).
+Nmap scan report for 192.168.56.105
+Host is up (0.0017s latency).
+Nmap scan report for 192.168.56.106
+Host is up (0.0017s latency).
+Nmap scan report for 192.168.56.107
+Host is up (0.0018s latency).
+Nmap scan report for 192.168.56.108
+Host is up (0.0016s latency).
+Nmap scan report for 192.168.56.109
+Host is up (0.0016s latency).
+Nmap scan report for 192.168.56.110
+Host is up (0.0018s latency).
+Nmap scan report for 192.168.56.111
+Host is up (0.0012s latency).
+Nmap scan report for 192.168.56.112
+Host is up (0.0012s latency).
+Nmap scan report for 192.168.56.113
+Host is up (0.0012s latency).
+Nmap scan report for 192.168.56.114
+Host is up (0.0012s latency).
+Nmap scan report for 192.168.56.115
+Host is up (0.0040s latency).
+Nmap scan report for 192.168.56.116
+Host is up (0.0041s latency).
+Nmap scan report for 192.168.56.117
+Host is up (0.0041s latency).
+Nmap scan report for 192.168.56.118
+Host is up (0.0033s latency).
+Nmap scan report for 192.168.56.119
+Host is up (0.0033s latency).
+Nmap scan report for 192.168.56.120
+Host is up (0.0033s latency).
+Nmap scan report for 192.168.56.121
+Host is up (0.0035s latency).
+Nmap scan report for 192.168.56.122
+Host is up (0.0033s latency).
+Nmap scan report for 192.168.56.123
+Host is up (0.0034s latency).
+Nmap scan report for 192.168.56.124
+Host is up (0.0034s latency).
+Nmap scan report for 192.168.56.125
+Host is up (0.0035s latency).
+Nmap scan report for 192.168.56.126
+Host is up (0.0035s latency).
+Nmap scan report for 192.168.56.127
+Host is up (0.0039s latency).
+Nmap scan report for 192.168.56.128
+Host is up (0.0039s latency).
+Nmap scan report for 192.168.56.129
+Host is up (0.0040s latency).
+Nmap scan report for 192.168.56.130
+Host is up (0.0019s latency).
+Nmap scan report for 192.168.56.131
+Host is up (0.0019s latency).
+Nmap scan report for 192.168.56.132
+Host is up (0.0019s latency).
+Nmap scan report for 192.168.56.133
+Host is up (0.0018s latency).
+Nmap scan report for 192.168.56.134
+Host is up (0.00096s latency).
+Nmap scan report for 192.168.56.135
+Host is up (0.00096s latency).
+Nmap scan report for 192.168.56.136
+Host is up (0.0013s latency).
+Nmap scan report for 192.168.56.137
+Host is up (0.0013s latency).
+Nmap scan report for 192.168.56.138
+Host is up (0.0028s latency).
+Nmap scan report for 192.168.56.139
+Host is up (0.0027s latency).
+Nmap scan report for 192.168.56.140
+Host is up (0.0014s latency).
+Nmap scan report for 192.168.56.141
+Host is up (0.0014s latency).
+Nmap scan report for 192.168.56.142
+Host is up (0.0014s latency).
+Nmap scan report for 192.168.56.143
+Host is up (0.0014s latency).
+Nmap scan report for 192.168.56.144
+Host is up (0.0028s latency).
+Nmap scan report for 192.168.56.145
+Host is up (0.0026s latency).
+Nmap scan report for 192.168.56.146
+Host is up (0.00086s latency).
+Nmap scan report for 192.168.56.147
+Host is up (0.00091s latency).
+Nmap scan report for 192.168.56.148
+Host is up (0.00090s latency).
+Nmap scan report for 192.168.56.149
+Host is up (0.0026s latency).
+Nmap scan report for 192.168.56.150
+Host is up (0.0026s latency).
+Nmap scan report for 192.168.56.151
+Host is up (0.00066s latency).
+Nmap scan report for 192.168.56.152
+Host is up (0.0026s latency).
+Nmap scan report for 192.168.56.153
+Host is up (0.0026s latency).
+Nmap scan report for 192.168.56.154
+Host is up (0.0027s latency).
+Nmap scan report for 192.168.56.155
+Host is up (0.0034s latency).
+Nmap scan report for 192.168.56.156
+Host is up (0.0024s latency).
+Nmap scan report for 192.168.56.157
+Host is up (0.0024s latency).
+Nmap scan report for 192.168.56.158
+Host is up (0.0024s latency).
+Nmap scan report for 192.168.56.159
+Host is up (0.0024s latency).
+Nmap scan report for 192.168.56.160
+Host is up (0.0025s latency).
+Nmap scan report for 192.168.56.161
+Host is up (0.0026s latency).
+Nmap scan report for 192.168.56.162
+Host is up (0.0026s latency).
+Nmap scan report for 192.168.56.163
+Host is up (0.0025s latency).
+Nmap scan report for 192.168.56.164
+Host is up (0.0025s latency).
+Nmap scan report for 192.168.56.165
+Host is up (0.0027s latency).
+Nmap scan report for 192.168.56.166
+Host is up (0.0027s latency).
+Nmap scan report for 192.168.56.167
+Host is up (0.0026s latency).
+Nmap scan report for 192.168.56.168
+Host is up (0.0027s latency).
+Nmap scan report for 192.168.56.169
+Host is up (0.0037s latency).
+Nmap scan report for 192.168.56.170
+Host is up (0.0036s latency).
+Nmap scan report for 192.168.56.171
+Host is up (0.0037s latency).
+Nmap scan report for 192.168.56.172
+Host is up (0.0037s latency).
+Nmap scan report for 192.168.56.173
+Host is up (0.0038s latency).
+Nmap scan report for 192.168.56.174
+Host is up (0.0038s latency).
+Nmap scan report for 192.168.56.175
+Host is up (0.0039s latency).
+Nmap scan report for 192.168.56.176
+Host is up (0.0038s latency).
+Nmap scan report for 192.168.56.177
+Host is up (0.0039s latency).
+Nmap scan report for 192.168.56.178
+Host is up (0.0039s latency).
+Nmap scan report for 192.168.56.179
+Host is up (0.0039s latency).
+Nmap scan report for 192.168.56.180
+Host is up (0.0039s latency).
+Nmap scan report for 192.168.56.181
+Host is up (0.0039s latency).
+Nmap scan report for 192.168.56.182
+Host is up (0.0039s latency).
+Nmap scan report for 192.168.56.183
+Host is up (0.0039s latency).
+Nmap scan report for 192.168.56.184
+Host is up (0.0027s latency).
+Nmap scan report for 192.168.56.185
+Host is up (0.0027s latency).
+Nmap scan report for 192.168.56.186
+Host is up (0.0039s latency).
+Nmap scan report for 192.168.56.187
+Host is up (0.0012s latency).
+Nmap scan report for 192.168.56.188
+Host is up (0.0013s latency).
+Nmap scan report for 192.168.56.189
+Host is up (0.0013s latency).
+Nmap scan report for 192.168.56.190
+Host is up (0.00095s latency).
+Nmap scan report for 192.168.56.191
+Host is up (0.00038s latency).
+Nmap scan report for 192.168.56.192
+Host is up (0.00100s latency).
+Nmap scan report for 192.168.56.193
+Host is up (0.00099s latency).
+Nmap scan report for 192.168.56.194
+Host is up (0.00035s latency).
+Nmap scan report for 192.168.56.195
+Host is up (0.0026s latency).
+Nmap scan report for 192.168.56.196
+Host is up (0.0015s latency).
+Nmap scan report for 192.168.56.197
+Host is up (0.0014s latency).
+Nmap scan report for 192.168.56.198
+Host is up (0.0015s latency).
+Nmap scan report for 192.168.56.199
+Host is up (0.0015s latency).
+Nmap scan report for 192.168.56.200
+Host is up (0.0026s latency).
+Nmap scan report for 192.168.56.201
+Host is up (0.0025s latency).
+Nmap scan report for 192.168.56.202
+Host is up (0.0012s latency).
+Nmap scan report for 192.168.56.203
+Host is up (0.0012s latency).
+Nmap scan report for 192.168.56.204
+Host is up (0.0012s latency).
+Nmap scan report for 192.168.56.205
+Host is up (0.0025s latency).
+Nmap scan report for 192.168.56.206
+Host is up (0.0026s latency).
+Nmap scan report for 192.168.56.207
+Host is up (0.00070s latency).
+Nmap scan report for 192.168.56.208
+Host is up (0.0026s latency).
+Nmap scan report for 192.168.56.209
+Host is up (0.0026s latency).
+Nmap scan report for 192.168.56.210
+Host is up (0.0019s latency).
+Nmap scan report for 192.168.56.211
+Host is up (0.0019s latency).
+Nmap scan report for 192.168.56.212
+Host is up (0.0021s latency).
+Nmap scan report for 192.168.56.213
+Host is up (0.0020s latency).
+Nmap scan report for 192.168.56.214
+Host is up (0.0018s latency).
+Nmap scan report for 192.168.56.215
+Host is up (0.0019s latency).
+Nmap scan report for 192.168.56.216
+Host is up (0.00080s latency).
+Nmap scan report for 192.168.56.217
+Host is up (0.0026s latency).
+Nmap scan report for 192.168.56.218
+Host is up (0.0027s latency).
+Nmap scan report for 192.168.56.219
+Host is up (0.0014s latency).
+Nmap scan report for 192.168.56.220
+Host is up (0.0013s latency).
+Nmap scan report for 192.168.56.221
+Host is up (0.0012s latency).
+Nmap scan report for 192.168.56.222
+Host is up (0.0012s latency).
+Nmap scan report for 192.168.56.223
+Host is up (0.0027s latency).
+Nmap scan report for 192.168.56.224
+Host is up (0.0027s latency).
+Nmap scan report for 192.168.56.225
+Host is up (0.0025s latency).
+Nmap scan report for 192.168.56.226
+Host is up (0.0025s latency).
+Nmap scan report for 192.168.56.227
+Host is up (0.0026s latency).
+Nmap scan report for 192.168.56.228
+Host is up (0.0025s latency).
+Nmap scan report for 192.168.56.229
+Host is up (0.0024s latency).
+Nmap scan report for 192.168.56.230
+Host is up (0.0024s latency).
+Nmap scan report for 192.168.56.231
+Host is up (0.0025s latency).
+Nmap scan report for 192.168.56.232
+Host is up (0.0025s latency).
+Nmap scan report for 192.168.56.233
+Host is up (0.0026s latency).
+Nmap scan report for 192.168.56.234
+Host is up (0.0025s latency).
+Nmap scan report for 192.168.56.235
+Host is up (0.0021s latency).
+Nmap scan report for 192.168.56.236
+Host is up (0.0019s latency).
+Nmap scan report for 192.168.56.237
+Host is up (0.0019s latency).
+Nmap scan report for 192.168.56.238
+Host is up (0.0020s latency).
+Nmap scan report for 192.168.56.239
+Host is up (0.0020s latency).
+Nmap scan report for 192.168.56.240
+Host is up (0.0020s latency).
+Nmap scan report for 192.168.56.241
+Host is up (0.0021s latency).
+Nmap scan report for 192.168.56.242
+Host is up (0.00041s latency).
+Nmap scan report for 192.168.56.243
+Host is up (0.00060s latency).
+Nmap scan report for 192.168.56.244
+Host is up (0.00087s latency).
+Nmap scan report for 192.168.56.245
+Host is up (0.00087s latency).
+Nmap scan report for 192.168.56.246
+Host is up (0.00060s latency).
+Nmap scan report for 192.168.56.247
+Host is up (0.00097s latency).
+Nmap scan report for 192.168.56.248
+Host is up (0.00079s latency).
+Nmap scan report for 192.168.56.249
+Host is up (0.00079s latency).
+Nmap scan report for 192.168.56.250
+Host is up (0.00097s latency).
+Nmap scan report for 192.168.56.251
+Host is up (0.00091s latency).
+Nmap scan report for 192.168.56.252
+Host is up (0.0011s latency).
+Nmap scan report for 192.168.56.253
+Host is up (0.0011s latency).
+Nmap scan report for 192.168.56.254
+Host is up (0.00093s latency).
+Nmap scan report for 192.168.56.255
+Host is up (0.0024s latency).
+Nmap done: 256 IP addresses (256 hosts up) scanned in 17.94 seconds
+                                                                       ]0;kali@kali: ~/lab-practice
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/lab-practice[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004he[1me[0m[1me[1mc[0m[0m[4me[0m[4mc[24m[4me[4mc[4mj[24m[4me[4mc[24m[24m [4me[4mc[4mh[24m[4mh[4mo[24m[24m[36me[24m[36mc[24m[36mh[24m[36mo[39m[36mo[36m [39m[36mo[39m[39m -[32m-[39m[32m-[32me[39m[32me[32m [39m[32me[39m[39m "[33m"[39m[33m"[33mH[39m[33mH[33mE[39m[33mE[33mA[39m[33mA[33mD[39m[33mD[33m [39m[33m [33m/[39m[33m/[33m [39m[33m [33mH[39m[33mH[33mT[39m[33mT[33mT[39m[33mT[33mP[39m[33mP[33m/[39m[33m/[33m1[39m[33m1[33m.[39m[33m.[33m0[39m[33m0[33m\[39m[1m[35m\[0m[39m[1m[35m\[1m[35mn[0m[39m[0m[33m\[0m[33mn[39m[33mn[33m\[39m[1m[35m\[0m[39m[1m[35m\[1m[35mn[0m[39m[0m[33m\[0m[33mn[39m[33mn[33m"[39m[33m"[33m [39m[33m"[39m[39m |[1m[34m|[0m[39m[1m[34m|[1m[34m [0m[39m[1m[34m|[0m[39m[0m[39m n[4mn[24m[4mn[4mc[24m[24m[36mn[24m[36mc[39m[36mc[36m [39m[36mc[39m[39m 192.168.56.101 80 >[1m[34m>[0m[39m[1m[34m>[1m[34m [0m[39m[1m[34m>[0m[39m[0m[39m ~[1m~[0m[1m~[1m/[0m[1m/[1ml[0m[1ml[1ma[0m[1ma[1mb[0m[1mb[1m-[0m[1m-[1mp[0m[1mp[1mr[0m[1mr[1ma[0m[1ma[1mc[0m[1mc[1mt[0m[1mt[1mi[0m [K[K[A[70C[1mi[1mc[0m[1mc[1me[0m[1mc[1me[1m/[0m[1m/[1ms[0m[1ms[1mc[0m[1mc[1ma[0m[1ma[1mn[0m[1mn[1ms[0m[1ms[1m/[0m[1m/[1mb[0m[A[49C[0m~[0m/[0ml[0ma[0mb[0m-[0mp[0mr[0ma[0mc[0mt[0mic[0me[0m/[0ms[0mc[0ma[0mn[0ms[0m/[0mbanner_http.txt[?1l>[?2004l
+(UNKNOWN) [192.168.56.101] 80 (http) : Connection refused
+                                                                       ]0;kali@kali: ~/lab-practice
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/lab-practice[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hn[4mn[24m[4mn[24m[38;5;244mmap -sn 192.168.56.0/24 -oN ~/lab-practice/scans/ping_sweep.txt[39m[63D[4mn[39m[4mc[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [62D[24m[36mn[24m[36mc[39m[36mn[36mc[36m [39m[36mn[36mc[39m[39m 192.168, .56.102 21 >[1m[34m>[0m[39m[1m[34m>[1m[34m [0m[39m[1m[34m>[0m[39m[0m[39m ~[1m~[0m[1m~[1m/[0m[1m/[1ml[0m[1ml[1ma[0m[1ma[1mb[0m[1mb[1m-[0m[1m-[1mp[0m[1mp[1mr[0m[1mr[1ma[0m[1ma[1mc[0m[1mc[1mt[0m[1mt[1mi[0m[1mi[1mc[0m[1mc[1me[0m[1me[1m/[0m[1m/[1ms[0m[1ms[1mc[0m[1mc[1ma[0m[1ma[1mn[0m[1mn[1ms[0m[1ms[1m/[0m[1m/[1mb[0m[1mb[1ma[0m[1ma[1mn[0m[1mn[1mn[0m[1mn[1me[0m[1me[1mr[0m[1mr[1m_[0m[1m_[1mf[0m[29D[0m~[0m/[0ml[0ma[0mb[0m-[0mp[0mr[0ma[0mc[0mt[0mi[0mc[0me[0m/[0ms[0mc[0ma[0mn[0ms[0m/[0mb[0ma[0mn[0mn[0me[0mr[0m_[0mftp.txt <[1m[34m<[0m[39m[1m[34m<[1m[34m [0m[39m[1m[34m<[0m[39m[0m[39m /[1m/[0m[1m/[1md[0m[1md[1me[0m[1me[1mv[0m[1mv[1m/[0m[1m/[1mn[0m [K[K[A[70C[1mn[1mu[0m[1mu[1ml[0m[1mu[1ml[1ml[0m[?1l>[?2004l
+^[[B    ^C
+                                                                       ]0;kali@kali: ~/lab-practice
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/lab-practice[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hn[4mn[24m[4mn[24m[38;5;244mc 192.168.56.102 21 > ~/lab-practice/scans/banner_ftp.txt < /dev/n[38;5;244mu[38;5;244mll[39m[K[A[2C[4mn[39m[4mm[24m[K[1B[K[A[6C[24m[36mn[24m[36mm[39m[38;5;244map -sn 192.168.56.0/24 -oN ~/lab-practice/scans/ping_sweep.txt[39m[62D[36mn[36mm[36ma[39m[39m[4mn[39m[4mm[39m[4ma[24m[4ma[39m[4mp[24m[24m[36mn[24m[36mm[24m[36ma[24m[36mp[39m[36mp[36m [39m[36mp[39m[39m [39m-[32m-[39m[32m-[32mP[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [57D[32mP[32mn[39m[32mn[32m [39m[32mn[39m[39m -[32m-[39m[32m-[32m-[39m[32m-[32m-[39m[32m-[32m-[39m[13D[39mn[39mm[39ma[39mp [39m-[39mP[39mn [39m-[39m-[39m-[39m-T[14D[36mn[36mm[36ma[36mp[39m [32m-[32mP[32mn[39m [32m-[32m-[32m-[32m-[32mT[39m[32mT[32m4[39m[32m4[32m [39m[32m4[39m[39m [32mT[39m[39m [32m-[39m[39m [32m-[39m[39m [32m-[39m[39m [32m-[39m[39m [39m [32mn[32m [39m[32mn[39m[39m T4 -[32m-[39m[32m-[32mF[39m[32mF[32m [39m[32mF[39m[39m 192.168.56.102 -[32m-[39m[32m-[32mo[39m[32mo[32mN[39m[32mN[32m [39m[32mN[39m[39m ~[1m~[0m[1m~[1m/[0m[1m/[1ml[0m[1ml[1ma[0m[1ma[1mb[0m[1mb[1m-[0m[1m-[1mp[0m[1mp[1mr[0m[1mr[1ma[0m[1ma[1mc[0m[1mc[1mt[0m[1mt[1mi[0m[1mi[1mc[0m[1mc[1me[0m[1me[1m/[0m[1m/[1ms[0m[1ms[1mc[0m[1mc[1ma[0m[1ma[1mn[0m[1mn[1ms[0m[1ms[1m/[0m[1m/[1mn[0m[22D[0m~[0m/[0ml[0ma[0mb[0m-[0mp[0mr[0ma[0mc[0mt[0mi[0mc[0me[0m/[0ms[0mc[0ma[0mn[0ms[0m/[0mnmap_quick.t [K[Kxxt[?1l>[?2004l
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-09-28 15:52 IST
+Failed to resolve "T4".
+Nmap scan report for metasploitable2.local (192.168.56.102)
+Host is up (0.0059s latency).
+Not shown: 82 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+21/tcp   open  ftp
+22/tcp   open  ssh
+23/tcp   open  telnet
+25/tcp   open  smtp
+53/tcp   open  domain
+80/tcp   open  http
+111/tcp  open  rpcbind
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+513/tcp  open  login
+514/tcp  open  shell
+2049/tcp open  nfs
+2121/tcp open  ccproxy-ftp
+3306/tcp open  mysql
+5432/tcp open  postgresql
+5900/tcp open  vnc
+6000/tcp open  X11
+8009/tcp open  ajp13
+
+Nmap done: 1 IP address (1 host up) scanned in 18.10 seconds
+                                                                       ]0;kali@kali: ~/lab-practice
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/lab-practice[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hn[4mn[24m[4mn[24m[38;5;244mmap -Pn T4 -F 192.168.56.102 -oN ~/lab-practice/scans/nmap_quick.t[38;5;244mx[38;5;244mt[39m[K[A[3C[4mn[39m[4mm[24m[24m[36mn[24m[36mm[39m[36mn[36mm[36ma[39m[39m[4mn[39m[4mm[39m[4ma[24m[4ma[39m[4mo[24m[K[1B[K[A[8C[4ma[24m[24m [38;5;244mp -Pn T4 -F 192.168.56.102 -oN ~/lab-practice/scans/nmap_quick.t[38;5;244mx[38;5;244mt[39m[K[A[5C[4ma[39m[4mp[24m[24m[36mn[24m[36mm[24m[36ma[24m[36mp[39m[36mp[36m [39m[36mp[39m[39m [39m-[39mP[39mn[39m [39mT[39m4[39m [39m-[39mF[39m [39m1[39m9[39m2[39m.[39m1[39m6[39m8[39m.[39m5[39m6[39m.[39m1[39m0[39m2[39m [39m-[39mo[39mN[39m [39m~[39m/[39ml[39ma[39mb[39m-[39mp[39mr[39ma[39mc[39mt[39mi[39mc[39me[39m/[39ms[39mc[39ma[39mn[39ms[39m/[39mn[39mm[39ma[39mp[39m_[39mq[39mu[39mi[39mc[39mk[39m.[39mtx[39mt[A[7C[32m-[32mP[32mn[39m[4C[32m-[32mF[39m[16C[32m-[32mo[32mN[39m [1m~[1m/[1ml[1ma[1mb[1m-[1mp[1mr[1ma[1mc[1mt[1mi[1mc[1me[1m/[1ms[1mc[1ma[1mn[1ms[1m/[1mn[1mm[1ma[1mp[1m_[1mq[1mu[1mi[1mc[1mk[1m.[1mt[1mx[1mt[0m[?1l>[?2004l
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-09-28 15:54 IST
+Failed to resolve "T4".
+Nmap scan report for metasploitable2.local (192.168.56.102)
+Host is up (0.067s latency).
+Not shown: 82 closed tcp ports (reset)
+PORT     STATE SERVICE
+21/tcp   open  ftp
+22/tcp   open  ssh
+23/tcp   open  telnet
+25/tcp   open  smtp
+53/tcp   open  domain
+80/tcp   open  http
+111/tcp  open  rpcbind
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+513/tcp  open  login
+514/tcp  open  shell
+2049/tcp open  nfs
+2121/tcp open  ccproxy-ftp
+3306/tcp open  mysql
+5432/tcp open  postgresql
+5900/tcp open  vnc
+6000/tcp open  X11
+8009/tcp open  ajp13
+
+Nmap done: 1 IP address (1 host up) scanned in 10.10 seconds
+                                                                       ]0;kali@kali: ~/lab-practice
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/lab-practice[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hs[1ms[0m[1ms[1mu[0m[0m[36ms[0m[36mu[39m[36ms[36mu[36md[39m[39m[4ms[39m[4mu[39m[4md[24m[4md[4mo[24m[4m[32ms[4m[32mu[4m[32md[4m[32mo[24m[39m[4m[32mo[4m[32m [24m[39m[4m[32mo[24m[39m[24m[39m n[4mn[24m[4mn[4mm[24m[24m[36mn[24m[36mm[39m[36mm[36ma[39m[39m[4mn[39m[4mm[39m[4ma[24m[4ma[4mp[24m[24m[36mn[24m[36mm[24m[36ma[24m[36mp[39m[36mp[36m [39m[36mp[39m[39m -[32m-[39m[32m-[32ms[39m[32ms[32mS[39m[32mS[32m [39m[32mS[39m[39m -[32m-[39m[32m-[32ms[39m[32ms[32mV[39m[32mV[32m [39m[32mV[39m[39m -[32m-[39m[32m-[32mO[39m[32mO[32m [39m[32mO[39m[39m -[32m-[39m[32m-[32mp[39m[32mp[32m-[39m[32m-[32m [39m[32m-[39m[39m 192.168.56.102 -[32m-[39m[32m-[32mo[39m[32mo[32mN[39m[32mN[32m [39m[32mN[39m[39m ~[1m~[0m[1m~[1m/[0m[1m/[1ml[0m[1ml[1ma[0m[1ma[1mb[0m[1mb[1m-[0m[1m-[1mp[0m[1mp[1mr[0m[1mr[1ma[0m[1ma[1mc[0m[1mc[1mt[0m[1mt[1mi[0m[1mi[1mc[0m[1mc[1me[0m[1me[1m/[0m[1m/[1ms[0m[1ms[1mc[0m[1mc[1ma[0m[1ma[1mn[0m[1mn[1ms[0m[1ms[1m/[0m[1m/[1mn[0m[1mn[1mm[0m [K[K[A[70C[1mm[1ma[0m[1ma[1mp[0m[1ma[1mp[1m_[0m[1m_[1mv[0m[A[44C[0m~[0m/[0ml[0ma[0mb[0m-[0mp[0mr[0ma[0mc[0mt[0mi[0mc[0me[0m/[0ms[0mc[0ma[0mn[0ms[0m/[0mn[0mma[0mp[0m_[0mvuln.txt 192.168.56.102[?1l>[?2004l
+[sudo] password for kali: 
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-09-28 15:56 IST
+Nmap scan report for metasploitable2.local (192.168.56.102)
+Host is up (0.0019s latency).
+Not shown: 65505 filtered tcp ports (no-response)
+PORT      STATE SERVICE     VERSION
+21/tcp    open  ftp         vsftpd 2.3.4
+22/tcp    open  ssh         OpenSSH 4.7p1 Debian 8ubuntu1 (protocol 2.0)
+23/tcp    open  telnet      Linux telnetd
+25/tcp    open  smtp        Postfix smtpd
+53/tcp    open  domain      ISC BIND 9.4.2
+80/tcp    open  http        Apache httpd 2.2.8 ((Ubuntu) DAV/2)
+111/tcp   open  rpcbind     2 (RPC #100000)
+139/tcp   open  netbios-ssn Samba smbd 3.X - 4.X (workgroup: WORKGROUP)
+445/tcp   open  netbios-ssn Samba smbd 3.X - 4.X (workgroup: WORKGROUP)
+512/tcp   open  exec        netkit-rsh rexecd
+513/tcp   open  login       OpenBSD or Solaris rlogind
+514/tcp   open  shell       Netkit rshd
+1099/tcp  open  java-rmi    GNU Classpath grmiregistry
+1524/tcp  open  bindshell   Metasploitable root shell
+2049/tcp  open  nfs         2-4 (RPC #100003)
+2121/tcp  open  ftp         ProFTPD 1.3.1
+3306/tcp  open  mysql       MySQL 5.0.51a-3ubuntu5
+3632/tcp  open  distccd     distccd v1 ((GNU) 4.2.4 (Ubuntu 4.2.4-1ubuntu4))
+5432/tcp  open  postgresql  PostgreSQL DB 8.3.0 - 8.3.7
+5900/tcp  open  vnc         VNC (protocol 3.3)
+6000/tcp  open  X11         (access denied)
+6667/tcp  open  irc         UnrealIRCd
+6697/tcp  open  tcpwrapped
+8009/tcp  open  ajp13       Apache Jserv (Protocol v1.3)
+8180/tcp  open  http        Apache Tomcat/Coyote JSP engine 1.1
+8787/tcp  open  drb         Ruby DRb RMI (Ruby 1.8; path /usr/lib/ruby/1.8/drb)
+35465/tcp open  status      1 (RPC #100024)
+42166/tcp open  java-rmi    GNU Classpath grmiregistry
+44489/tcp open  nlockmgr    1-4 (RPC #100021)
+54429/tcp open  mountd      1-3 (RPC #100005)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: bridge|VoIP adapter|general purpose
+Running (JUST GUESSING): Oracle Virtualbox (98%), Slirp (98%), AT&T embedded (95%), QEMU (94%)
+OS CPE: cpe:/o:oracle:virtualbox cpe:/a:danny_gasparovski:slirp cpe:/a:qemu:qemu
+Aggressive OS guesses: Oracle Virtualbox Slirp NAT bridge (98%), AT&T BGW210 voice gateway (95%), QEMU user mode network gateway (94%)
+No exact OS matches for host (test conditions non-ideal).
+Service Info: Hosts:  metasploitable.localdomain, irc.Metasploitable.LAN; OSs: Unix, Linux; CPE: cpe:/o:linux:linux_kernel
+
+
+                                                                       ]0;kali@kali: ~/lab-practice
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/lab-practice[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hs[1ms[0m[1ms[0m[38;5;244mudo nmap -sS -sV -O -p- 192.168.56.102 -oN ~/lab-practice/scans/nm[38;5;244ma[38;5;244mp_vuln.txt 192.168.56.102[39m[K[A[21D[1ms[39m[1mu[0m[0m[36ms[0m[36mu[39m[36ms[36mu[36md[39m[39m[4ms[39m[4mu[39m[4md[24m[4md[39m[4mo[24m[4m[32ms[4m[32mu[4m[32md[4m[32mo[24m[39m[4m[32mo[4m[32m [24m[39m[4m[32mo[24m[39m[24m[39m [39mn[4mn[24m[4mn[39m[4mm[24m[24m[36mn[24m[36mm[39m[36mm[36ma[39m[39m[4mn[39m[4mm[39m[4ma[24m[4ma[39m[4mp[24m[24m[36mn[24m[36mm[24m[36ma[24m[36mp[39m[36mp[36m [39m[36mp[39m[39m [39m-[32m-[39m[32m-[32m-[39m[K[1B[K[A[16C[32m-[32ms[39m[32ms[32mc[39m[32mc[32mr[39m[32mr[32mi[39m[32mi[32mp[39m[32mp[32mt[39m[32mt[32m [39m[32mt[39m[39m vuln -[32m-[39m[32m-[32mo[39m[32mo[32mN[39m[32mN[32m [39m[32mN[39m[39m ~[1m~[0m[1m~[1m/[0m[1m/[1ml[0m[1ml[1ma[0m[1ma[1mb[0m[1mb[1m-[0m[1m-[1mp[0m[1mp[1mr[0m[1mr[1ma[0m[1ma[1mc[0m[1mc[1mt[0m[1mt[1mi[0m[1mi[1mc[0m[1mc[1me[0m[1me[1m/[0m[1m/[1ms[0m[1ms[1mc[0m[1mc[1ma[0m[1ma[1mn[0m[1mn[1ms[0m[1ms[1m/[0m[1m/[1mn[0m[1mn[1mm[0m[1mm[1ma[0m[1ma[1mp[0m[1mp[1m_[0m[1m_[1mv[0m[1mv[1mu[0m[1mu[1ml[0m[1ml[1mn[0m[1mn[1m.[0m[1m.[1mt[0m[1mt[1mx[0m[1mx[1mt[0m[1mt[1m [0m[1mt[0m[0m 192. [K[K1168.56.102[?1l>[?2004l
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-09-28 16:02 IST
+Nmap scan report for metasploitable2.local (192.168.56.102)
+Host is up (0.0060s latency).
+Not shown: 977 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+21/tcp   open  ftp
+| ftp-vsftpd-backdoor: 
+|   VULNERABLE:
+|   vsFTPd version 2.3.4 backdoor
+|     State: VULNERABLE (Exploitable)
+|     IDs:  BID:48539  CVE:CVE-2011-2523
+|       vsFTPd version 2.3.4 backdoor, this was reported on 2011-07-04.
+|     Disclosure date: 2011-07-03
+|     Exploit results:
+|       Shell command: id
+|       Results: uid=0(root) gid=0(root)
+|     References:
+|       https://github.com/rapid7/metasploit-framework/blob/master/modules/exploits/unix/ftp/vsftpd_234_backdoor.rb
+|       https://www.securityfocus.com/bid/48539
+|       http://scarybeastsecurity.blogspot.com/2011/07/alert-vsftpd-download-backdoored.html
+|_      https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2011-2523
+22/tcp   open  ssh
+23/tcp   open  telnet
+25/tcp   open  smtp
+|_sslv2-drown: ERROR: Script execution failed (use -d to debug)
+| smtp-vuln-cve2010-4344: 
+|_  The SMTP server is not Exim: NOT VULNERABLE
+| ssl-dh-params: 
+|   VULNERABLE:
+|   Anonymous Diffie-Hellman Key Exchange MitM Vulnerability
+|     State: VULNERABLE
+|       Transport Layer Security (TLS) services that use anonymous
+|       Diffie-Hellman key exchange only provide protection against passive
+|       eavesdropping, and are vulnerable to active man-in-the-middle attacks
+|       which could completely compromise the confidentiality and integrity
+|       of any data exchanged over the resulting session.
+|     Check results:
+|       ANONYMOUS DH GROUP 1
+|             Cipher Suite: TLS_DH_anon_EXPORT_WITH_RC4_40_MD5
+|             Modulus Type: Safe prime
+|             Modulus Source: Unknown/Custom-generated
+|             Modulus Length: 512
+|             Generator Length: 8
+|             Public Key Length: 512
+|     References:
+|       https://www.ietf.org/rfc/rfc2246.txt
+|   
+|   Transport Layer Security (TLS) Protocol DHE_EXPORT Ciphers Downgrade MitM (Logjam)
+|     State: VULNERABLE
+|     IDs:  BID:74733  CVE:CVE-2015-4000
+|       The Transport Layer Security (TLS) protocol contains a flaw that is
+|       triggered when handling Diffie-Hellman key exchanges defined with
+|       the DHE_EXPORT cipher. This may allow a man-in-the-middle attacker
+|       to downgrade the security of a TLS session to 512-bit export-grade
+|       cryptography, which is significantly weaker, allowing the attacker
+|       to more easily break the encryption and monitor or tamper with
+|       the encrypted stream.
+|     Disclosure date: 2015-5-19
+|     Check results:
+|       EXPORT-GRADE DH GROUP 1
+|             Cipher Suite: TLS_DHE_RSA_EXPORT_WITH_DES40_CBC_SHA
+|             Modulus Type: Safe prime
+|             Modulus Source: Unknown/Custom-generated
+|             Modulus Length: 512
+|             Generator Length: 8
+|             Public Key Length: 512
+|     References:
+|       https://www.securityfocus.com/bid/74733
+|       https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-4000
+|       https://weakdh.org
+|   
+|   Diffie-Hellman Key Exchange Insufficient Group Strength
+|     State: VULNERABLE
+|       Transport Layer Security (TLS) services that use Diffie-Hellman groups
+|       of insufficient strength, especially those using one of a few commonly
+|       shared groups, may be susceptible to passive eavesdropping attacks.
+|     Check results:
+|       WEAK DH GROUP 1
+|             Cipher Suite: TLS_DHE_RSA_WITH_AES_128_CBC_SHA
+|             Modulus Type: Safe prime
+|             Modulus Source: postfix builtin
+|             Modulus Length: 1024
+|             Generator Length: 8
+|             Public Key Length: 1024
+|     References:
+|_      https://weakdh.org
+| ssl-poodle: 
+|   VULNERABLE:
+|   SSL POODLE information leak
+|     State: VULNERABLE
+|     IDs:  BID:70574  CVE:CVE-2014-3566
+|           The SSL protocol 3.0, as used in OpenSSL through 1.0.1i and other
+|           products, uses nondeterministic CBC padding, which makes it easier
+|           for man-in-the-middle attackers to obtain cleartext data via a
+|           padding-oracle attack, aka the "POODLE" issue.
+|     Disclosure date: 2014-10-14
+|     Check results:
+|       TLS_RSA_WITH_AES_128_CBC_SHA
+|     References:
+|       https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-3566
+|       https://www.openssl.org/~bodo/ssl-poodle.pdf
+|       https://www.securityfocus.com/bid/70574
+|_      https://www.imperialviolet.org/2014/10/14/poodle.html
+53/tcp   open  domain
+80/tcp   open  http
+| http-fileupload-exploiter: 
+|   
+|_    Couldn't find a file-type field.
+|_http-stored-xss: Couldn't find any stored XSS vulnerabilities.
+|_http-trace: TRACE is enabled
+| http-slowloris-check: 
+|   VULNERABLE:
+|   Slowloris DOS attack
+|     State: LIKELY VULNERABLE
+|     IDs:  CVE:CVE-2007-6750
+|       Slowloris tries to keep many connections to the target web server open and hold
+|       them open as long as possible.  It accomplishes this by opening connections to
+|       the target web server and sending a partial request. By doing so, it starves
+|       the http server's resources causing Denial Of Service.
+|       
+|     Disclosure date: 2009-09-17
+|     References:
+|       https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2007-6750
+|_      http://ha.ckers.org/slowloris/
+|_http-vuln-cve2017-1001000: ERROR: Script execution failed (use -d to debug)
+| http-csrf: 
+| Spidering limited to: maxdepth=3; maxpagecount=20; withinhost=metasploitable2.local
+|   Found the following possible CSRF vulnerabilities: 
+|     
+|     Path: http://metasploitable2.local:80/dvwa/
+|     Form id: 
+|     Form action: login.php
+|     
+|     Path: http://metasploitable2.local:80/twiki/TWikiDocumentation.html
+|     Form id: 
+|     Form action: http://TWiki.org/cgi-bin/passwd/TWiki/WebHome
+|     
+|     Path: http://metasploitable2.local:80/twiki/TWikiDocumentation.html
+|     Form id: 
+|     Form action: http://TWiki.org/cgi-bin/passwd/Main/WebHome
+|     
+|     Path: http://metasploitable2.local:80/twiki/TWikiDocumentation.html
+|     Form id: 
+|     Form action: http://TWiki.org/cgi-bin/edit/TWiki/
+|     
+|     Path: http://metasploitable2.local:80/twiki/TWikiDocumentation.html
+|     Form id: 
+|     Form action: http://TWiki.org/cgi-bin/view/TWiki/TWikiSkins
+|     
+|     Path: http://metasploitable2.local:80/twiki/TWikiDocumentation.html
+|     Form id: 
+|_    Form action: http://TWiki.org/cgi-bin/manage/TWiki/ManagingWebs
+| http-sql-injection: 
+|   Possible sqli for queries:
+|     http://metasploitable2.local:80/dav/?C=S%3BO%3DA%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/dav/?C=M%3BO%3DA%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/dav/?C=D%3BO%3DA%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/dav/?C=N%3BO%3DD%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/?page=credits.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=user-poll.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=documentation%2Fvulnerabilities.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/?page=text-file-viewer.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=php-errors.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=view-someones-blog.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/?page=login.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=set-background-color.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=user-info.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?do=toggle-hints%27%20OR%20sqlspider&page=home.php
+|     http://metasploitable2.local:80/mutillidae/index.php?page=usage-instructions.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=capture-data.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=pen-test-tool-lookup.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=source-viewer.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=captured-data.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=site-footer-xss-discussion.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=documentation%2Fhow-to-access-Mutillidae-over-Virtual-Box-network.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=installation.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=home.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/?page=user-info.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/?page=source-viewer.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=text-file-viewer.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=credits.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=show-log.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=framing.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=secret-administrative-pages.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/?page=view-someones-blog.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=add-to-your-blog.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/?page=show-log.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=arbitrary-file-inclusion.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?do=toggle-security%27%20OR%20sqlspider&page=home.php
+|     http://metasploitable2.local:80/mutillidae/index.php?page=register.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=change-log.htm%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/?page=add-to-your-blog.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=password-generator.php%27%20OR%20sqlspider&username=anonymous
+|     http://metasploitable2.local:80/mutillidae/index.php?page=login.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=html5-storage.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=browser-info.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=notes.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=dns-lookup.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/view/TWiki/TWikiHistory?rev=1.9%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/rdiff/TWiki/TWikiHistory?rev2=1.8%27%20OR%20sqlspider&rev1=1.9
+|     http://metasploitable2.local:80/rdiff/TWiki/TWikiHistory?rev2=1.8&rev1=1.9%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/oops/TWiki/TWikiHistory?template=oopsrev%27%20OR%20sqlspider&param1=1.10
+|     http://metasploitable2.local:80/oops/TWiki/TWikiHistory?template=oopsrev&param1=1.10%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/rdiff/TWiki/TWikiHistory?rev2=1.9%27%20OR%20sqlspider&rev1=1.10
+|     http://metasploitable2.local:80/rdiff/TWiki/TWikiHistory?rev2=1.9&rev1=1.10%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/view/TWiki/TWikiHistory?rev=1.7%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/rdiff/TWiki/TWikiHistory?rev2=1.7%27%20OR%20sqlspider&rev1=1.8
+|     http://metasploitable2.local:80/rdiff/TWiki/TWikiHistory?rev2=1.7&rev1=1.8%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/view/TWiki/TWikiHistory?rev=1.8%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/view/TWiki/TWikiHistory?rev=1.9%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/rdiff/TWiki/TWikiHistory?rev2=1.8%27%20OR%20sqlspider&rev1=1.9
+|     http://metasploitable2.local:80/rdiff/TWiki/TWikiHistory?rev2=1.8&rev1=1.9%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/oops/TWiki/TWikiHistory?template=oopsrev%27%20OR%20sqlspider&param1=1.10
+|     http://metasploitable2.local:80/oops/TWiki/TWikiHistory?template=oopsrev&param1=1.10%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/view/TWiki/TWikiHistory?rev=1.7%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/rdiff/TWiki/TWikiHistory?rev2=1.7%27%20OR%20sqlspider&rev1=1.8
+|     http://metasploitable2.local:80/rdiff/TWiki/TWikiHistory?rev2=1.7&rev1=1.8%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/rdiff/TWiki/TWikiHistory?rev2=1.9%27%20OR%20sqlspider&rev1=1.10
+|     http://metasploitable2.local:80/rdiff/TWiki/TWikiHistory?rev2=1.9&rev1=1.10%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/view/TWiki/TWikiHistory?rev=1.8%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/dav/?C=S%3BO%3DD%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/dav/?C=M%3BO%3DA%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/dav/?C=D%3BO%3DA%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/dav/?C=N%3BO%3DA%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/dav/?C=M%3BO%3DD%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/dav/?C=S%3BO%3DA%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/dav/?C=D%3BO%3DA%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/dav/?C=N%3BO%3DA%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/dav/?C=S%3BO%3DA%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/dav/?C=D%3BO%3DD%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/dav/?C=M%3BO%3DA%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/dav/?C=N%3BO%3DA%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/dav/?C=S%3BO%3DA%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/dav/?C=M%3BO%3DA%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/dav/?C=D%3BO%3DA%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/dav/?C=N%3BO%3DA%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/?page=credits.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=user-poll.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=documentation%2Fvulnerabilities.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/?page=text-file-viewer.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=view-someones-blog.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/?page=login.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=redirectandlog.php%27%20OR%20sqlspider&forwardurl=http%3A%2F%2Fwww.php.net%2F
+|     http://metasploitable2.local:80/mutillidae/index.php?page=redirectandlog.php%27%20OR%20sqlspider&forwardurl=http%3A%2F%2Fpauldotcom.com%2F
+|     http://metasploitable2.local:80/mutillidae/index.php?page=redirectandlog.php%27%20OR%20sqlspider&forwardurl=http%3A%2F%2Fwww.isd-podcast.com%2F
+|     http://metasploitable2.local:80/mutillidae/index.php?page=set-background-color.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=redirectandlog.php%27%20OR%20sqlspider&forwardurl=http%3A%2F%2Fwww.room362.com%2F
+|     http://metasploitable2.local:80/mutillidae/index.php?page=redirectandlog.php%27%20OR%20sqlspider&forwardurl=http%3A%2F%2Fwww.pocodoy.com%2Fblog%2F
+|     http://metasploitable2.local:80/mutillidae/index.php?page=user-info.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=login.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=redirectandlog.php%27%20OR%20sqlspider&forwardurl=http%3A%2F%2Fwww.owasp.org%2Findex.php%2FLouisville
+|     http://metasploitable2.local:80/mutillidae/index.php?page=capture-data.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=pen-test-tool-lookup.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=source-viewer.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=redirectandlog.php%27%20OR%20sqlspider&forwardurl=http%3A%2F%2Fwww.issa-kentuckiana.org%2F
+|     http://metasploitable2.local:80/mutillidae/index.php?page=captured-data.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=redirectandlog.php%27%20OR%20sqlspider&forwardurl=http%3A%2F%2Fwww.owasp.org
+|     http://metasploitable2.local:80/mutillidae/index.php?page=site-footer-xss-discussion.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=arbitrary-file-inclusion.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=documentation%2Fhow-to-access-Mutillidae-over-Virtual-Box-network.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=redirectandlog.php%27%20OR%20sqlspider&forwardurl=http%3A%2F%2Fwww.irongeek.com%2F
+|     http://metasploitable2.local:80/mutillidae/?page=user-info.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/?page=source-viewer.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=text-file-viewer.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=credits.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=show-log.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=redirectandlog.php%27%20OR%20sqlspider&forwardurl=https%3A%2F%2Faddons.mozilla.org%2Fen-US%2Ffirefox%2Fcollections%2Fjdruin%2Fpr%2F
+|     http://metasploitable2.local:80/mutillidae/index.php?page=framing.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/?page=view-someones-blog.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=secret-administrative-pages.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/?page=show-log.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=add-to-your-blog.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=installation.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=home.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=change-log.htm%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/?page=add-to-your-blog.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=password-generator.php%27%20OR%20sqlspider&username=anonymous
+|     http://metasploitable2.local:80/mutillidae/index.php?page=register.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=html5-storage.php%27%20OR%20sqlspider
+|     http://metasploitable2.local:80/mutillidae/index.php?page=browser-info.php%27%20OR%20sqlspider
+|_    http://metasploitable2.local:80/mutillidae/index.php?page=dns-lookup.php%27%20OR%20sqlspider
+|_http-dombased-xss: Couldn't find any DOM based XSS.
+| http-enum: 
+|   /tikiwiki/: Tikiwiki
+|   /test/: Test page
+|   /phpinfo.php: Possible information file
+|   /phpMyAdmin/: phpMyAdmin
+|   /doc/: Potentially interesting directory w/ listing on 'apache/2.2.8 (ubuntu) dav/2'
+|   /icons/: Potentially interesting folder w/ directory listing
+|_  /index/: Potentially interesting folder
+111/tcp  open  rpcbind
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+512/tcp  open  exec
+513/tcp  open  login
+514/tcp  open  shell
+1099/tcp open  rmiregistry
+| rmi-vuln-classloader: 
+|   VULNERABLE:
+|   RMI registry default configuration remote code execution vulnerability
+|     State: VULNERABLE
+|       Default configuration of RMI registry allows loading classes from remote URLs which can lead to remote code execution.
+|       
+|     References:
+|_      https://github.com/rapid7/metasploit-framework/blob/master/modules/exploits/multi/misc/java_rmi_server.rb
+1524/tcp open  ingreslock
+2049/tcp open  nfs
+2121/tcp open  ccproxy-ftp
+3306/tcp open  mysql
+|_ssl-ccs-injection: No reply from server (TIMEOUT)
+5432/tcp open  postgresql
+| ssl-dh-params: 
+|   VULNERABLE:
+|   Diffie-Hellman Key Exchange Insufficient Group Strength
+|     State: VULNERABLE
+|       Transport Layer Security (TLS) services that use Diffie-Hellman groups
+|       of insufficient strength, especially those using one of a few commonly
+|       shared groups, may be susceptible to passive eavesdropping attacks.
+|     Check results:
+|       WEAK DH GROUP 1
+|             Cipher Suite: TLS_DHE_RSA_WITH_AES_128_CBC_SHA
+|             Modulus Type: Safe prime
+|             Modulus Source: Unknown/Custom-generated
+|             Modulus Length: 1024
+|             Generator Length: 8
+|             Public Key Length: 1024
+|     References:
+|_      https://weakdh.org
+| ssl-ccs-injection: 
+|   VULNERABLE:
+|   SSL/TLS MITM vulnerability (CCS Injection)
+|     State: VULNERABLE
+|     Risk factor: High
+|       OpenSSL before 0.9.8za, 1.0.0 before 1.0.0m, and 1.0.1 before 1.0.1h
+|       does not properly restrict processing of ChangeCipherSpec messages,
+|       which allows man-in-the-middle attackers to trigger use of a zero
+|       length master key in certain OpenSSL-to-OpenSSL communications, and
+|       consequently hijack sessions or obtain sensitive information, via
+|       a crafted TLS handshake, aka the "CCS Injection" vulnerability.
+|           
+|     References:
+|       http://www.openssl.org/news/secadv_20140605.txt
+|       https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-0224
+|_      http://www.cvedetails.com/cve/2014-0224
+| ssl-poodle: 
+|   VULNERABLE:
+|   SSL POODLE information leak
+|     State: VULNERABLE
+|     IDs:  BID:70574  CVE:CVE-2014-3566
+|           The SSL protocol 3.0, as used in OpenSSL through 1.0.1i and other
+|           products, uses nondeterministic CBC padding, which makes it easier
+|           for man-in-the-middle attackers to obtain cleartext data via a
+|           padding-oracle attack, aka the "POODLE" issue.
+|     Disclosure date: 2014-10-14
+|     Check results:
+|       TLS_RSA_WITH_AES_128_CBC_SHA
+|     References:
+|       https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-3566
+|       https://www.openssl.org/~bodo/ssl-poodle.pdf
+|       https://www.securityfocus.com/bid/70574
+|_      https://www.imperialviolet.org/2014/10/14/poodle.html
+5900/tcp open  vnc
+6000/tcp open  X11
+6667/tcp open  irc
+|_irc-unrealircd-backdoor: Looks like trojaned version of unrealircd. See http://seclists.org/fulldisclosure/2010/Jun/277
+8009/tcp open  ajp13
+8180/tcp open  unknown
+| http-slowloris-check: 
+|   VULNERABLE:
+|   Slowloris DOS attack
+|     State: LIKELY VULNERABLE
+|     IDs:  CVE:CVE-2007-6750
+|       Slowloris tries to keep many connections to the target web server open and hold
+|       them open as long as possible.  It accomplishes this by opening connections to
+|       the target web server and sending a partial request. By doing so, it starves
+|       the http server's resources causing Denial Of Service.
+|       
+|     Disclosure date: 2009-09-17
+|     References:
+|       https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2007-6750
+|_      http://ha.ckers.org/slowloris/
+| http-enum: 
+|   /admin/: Possible admin folder
+|   /admin/index.html: Possible admin folder
+|   /admin/login.html: Possible admin folder
+|   /admin/admin.html: Possible admin folder
+|   /admin/account.html: Possible admin folder
+|   /admin/admin_login.html: Possible admin folder
+|   /admin/home.html: Possible admin folder
+|   /admin/admin-login.html: Possible admin folder
+|   /admin/adminLogin.html: Possible admin folder
+|   /admin/controlpanel.html: Possible admin folder
+|   /admin/cp.html: Possible admin folder
+|   /admin/index.jsp: Possible admin folder
+|   /admin/login.jsp: Possible admin folder
+|   /admin/admin.jsp: Possible admin folder
+|   /admin/home.jsp: Possible admin folder
+|   /admin/controlpanel.jsp: Possible admin folder
+|   /admin/admin-login.jsp: Possible admin folder
+|   /admin/cp.jsp: Possible admin folder
+|   /admin/account.jsp: Possible admin folder
+|   /admin/admin_login.jsp: Possible admin folder
+|   /admin/adminLogin.jsp: Possible admin folder
+|   /manager/html/upload: Apache Tomcat (401 Unauthorized)
+|   /manager/html: Apache Tomcat (401 Unauthorized)
+|   /admin/view/javascript/fckeditor/editor/filemanager/connectors/test.html: OpenCart/FCKeditor File upload
+|   /admin/includes/FCKeditor/editor/filemanager/upload/test.html: ASP Simple Blog / FCKeditor File Upload
+|   /admin/jscript/upload.html: Lizard Cart/Remote File upload
+|_  /webdav/: Potentially interesting folder
+
+Host script results:
+|_smb-vuln-ms10-054: false
+|_smb-vuln-regsvc-dos: ERROR: Script execution failed (use -d to debug)
+|_smb-vuln-ms10-061: false
+
+Nmap done: 1 IP address (1 host up) scanned in 328.34 seconds
+                                                                       ]0;kali@kali: ~/lab-practice
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/lab-practice[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hs[1ms[0m[1ms[0m[38;5;244mudo nmap --script vuln -oN ~/lab-practice/scans/nmap_vuln.txt 192.[38;5;244m1[38;5;244m68.56.102[39m[K[A[1ms[39m[1mu[0m[0m[36ms[0m[36mu[39m[36ms[36mu[36md[39m[39m[4ms[39m[4mu[39m[4md[24m[4md[39m[4mo[24m[4m[32ms[4m[32mu[4m[32md[4m[32mo[24m[39m[4m[32mo[4m[32m [24m[39m[4m[32mo[24m[39m[24m[39m [39mh[K[1B[K[A[10C[4mh[24m[4mh[4mp[24m[4mp[4mi[24m[4mi[4mn[24m[4mn[4mg[24m[4mg[4m3[24m[24m[36mh[24m[36mp[24m[36mi[24m[36mn[24m[36mg[24m[36m3[39m[36m3[36m [39m[36m3[39m[39m -[32m-[39m[32m-[32ms[39m[32ms[32m [39m[32ms[39m[39m [32m-[39m[39m [32m-[32mS[39m[32mS[32m [39m[32mS[39m[39m -[32m-[39m[32m-[32mp[39m[32mp[32m [39m[32mp[39m[39m -[32m-[39m[32m-[32m-[39m[32m-[32mf[39m[32mf[32ml[39m[32ml[32mo[39m[32mo[32mo[39m[32mo[32md[39m[32md[32m [39m[32md[39m[39m 192.168.56.102 &[1m[34m&[0m[39m[1m[34m&[1m[34m [0m[39m[1m[34m&[0m[39m[0m[39m s[1ms[0m[1ms[1ml[0m[0m[4ms[0m[4ml[24m[4ml[4me[24m[4me[4me[24m[4me[4mp[24m[24m[36ms[24m[36ml[24m[36me[24m[36me[24m[36mp[39m[36mp[36m [39m[36mp[39m[39m 10;[1m[34m;[0m[39m[1m[34m;[1m[34m [0m[39m[1m[34m;[0m[39m[0m[39m s[1ms[0m[1ms[1mu[0m[0m[36ms[0m[36mu[39m[36mu[36md[39m[39m[4ms[39m[4mu[39m[4md[24m[4md[4mo[24m[4m[32ms[4m[32mu[4m[32md[4m[32mo[24m[39m[4m[32mo[4m[32m [24m[39m[4m[32mo[24m[39m[24m[39m p[1mp[0m[1mp[1mk[0m[0m[4mp[0m[4mk[24m[4mk[4mi[24m[4mi[4ml[24m[4ml[4ml[24m[24m[36mp[24m[36mk[24m[36mi[24m[36ml[24m[36ml[39m[36ml[36m [39m[36ml[39m[39m hpi [K[Knng3[?1l>[?2004l
+[1] 22871
+HPING 192.168.56.102 (eth0 192.168.56.102): S set, 40 headers + 0 data bytes
+ICMP Network Unreachable from ip=10.0.2.2 get hostname...               name=UNKNOWN
+ICMP Network Unreachable from ip=10.0.2.2 get hostname...               name=UNKNOWN
+ICMP Network Unreachable from ip=10.0.2.2 get hostname...               name=UNKNOWN
+ICMP Network Unreachable from ip=10.0.2.2 get hostname...               name=UNKNOWN
+ICMP Network Unreachable from ip=10.0.2.2 get hostname...               name=UNKNOWN
+ICMP Network Unreachable from ip=10.0.2.2 get hostname...               name=UNKNOWN
+ICMP Network Unreachable from ip=10.0.2.2 get hostname...               name=UNKNOWN
+ICMP Network Unreachable from ip=10.0.2.2 get hostname...               name=UNKNOWN
+ICMP Network Unreachable from ip=10.0.2.2 get hostname...               name=UNKNOWN
+ICMP Network Unreachable from ip=10.0.2.2 get hostname...               name=UNKNOWN
+ICMP Network Unreachable from ip=10.0.2.2 get hostname...               name=UNKNOWN
+                                                                       ]0;kali@kali: ~/lab-practice
+
+--- 192.168.56.102 hping statistic ---
+11 packets transmitted, 11 packets received, 0% packet loss
+round-trip min/avg/max = 0.0/0.0/0.0 ms
+[1]  + done       sudo hping3 -S -p --flood 192.168.56.102
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/lab-practice[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hd[1md[0m[1md[0m[38;5;244mig example.com ANY +noall +answer > ~/lab-practice/evidence/dig.tx[38;5;244mt[39m[K[A[4C[K[1B[K[A[4Cs[1ms[0m[1ms[0m[38;5;244mudo hping3 -S -p --flood 192.168.56.102 & sleep 10; sudo pkill hpi[38;5;244mn[38;5;244mg3[39m[K[A[2C[1ms[39m[1mu[0m[0m[36ms[0m[36mu[39m[36ms[36mu[36md[39m[39m[4ms[39m[4mu[39m[4md[24m[4md[39m[4mo[24m[4m[32ms[4m[32mu[4m[32md[4m[32mo[24m[39m[4m[32mo[4m[32m [24m[39m[4m[32mo[24m[39m[24m[39m [39mi[K[1B[K[A[10C[4mi[24m[4mi[4mp[24m[24m[36mi[24m[36mp[39m[36mp[36mt[39m[39m[4mi[39m[4mp[39m[4mt[24m[4mt[4ma[24m[4ma[4mb[24m[4mb[4ml[24m[4ml[4me[24m[4me[4ms[24m[8D[24m[36mi[24m[36mp[24m[36mt[24m[36ma[24m[36mb[24m[36ml[24m[36me[24m[36ms[39m[36ms[36m [39m[36ms[39m[39m -[32m-[39m[32m-[32mL[39m[32mL[32m [39m[32mL[39m[39m -[32m-[39m[32m-[32mn[39m[32mn[32m [39m[32mn[39m[39m -[32m-[39m[32m-[32mv[39m[32mv[32m [39m[32mv[39m[39m >[1m[34m>[0m[39m[1m[34m>[1m[34m [0m[39m[1m[34m>[0m[39m[0m[39m ~[1m~[0m[1m~[1m/[0m[1m/[1ml[0m[1ml[1ma[0m[1ma[1mb[0m[1mb[1m-[0m[1m-[1mp[0m[1mp[1mr[0m[1mr[1ma[0m[1ma[1mc[0m[1mc[1mt[0m[1mt[1mi[0m[1mi[1mc[0m[1mc[1me[0m[1me[1m/[0m[1m/[1mf[0m[1mf[1mi[0m[1mi[1mr[0m[1mr[1me[0m[1me[1mw[0m[1mw[1ma[0m[1ma[1ml[0m[1ml[1ml[0m[1ml[1m/[0m[1m/[1mi[0m[25D[0m~[0m/[0ml[0ma[0mb[0m-[0mp[0mr[0ma[0mc[0mt[0mi[0mc[0me[0m/[0mf[0mi[0mr[0me[0mw[0ma[0ml[0ml[0m/[0miptables_before.tx [K[Kt[?1l>[?2004l
+                                                                       ]0;kali@kali: ~/lab-practice
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/lab-practice[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hs[1ms[0m[1ms[0m[38;5;244mudo iptables -L -n -v > ~/lab-practice/firewall/iptables_before.tx[38;5;244mt[39m[K[A[4C[1ms[39m[1mu[0m[0m[36ms[0m[36mu[39m[36ms[36mu[36md[39m[39m[4ms[39m[4mu[39m[4md[24m[4md[39m[4mp[24m[K[1B[K[A[8C[4md[24m[24m [38;5;244mo iptables -L -n -v > ~/lab-practice/firewall/iptables_before.tx[38;5;244mt[39m[K[A[6C[4md[39m[4mo[24m[4m[32ms[4m[32mu[4m[32md[4m[32mo[24m[39m[4m[32mo[4m[32m [24m[39m[4m[32mo[24m[39m[24m[39m [39mi[4mi[24m[4mi[39m[4mp[24m[24m[36mi[24m[36mp[39m[36mp[36mt[39m[39m[4mi[39m[4mp[39m[4mt[24m[4mt[39m[4ma[24m[4ma[39m[4mv[24m[K[1B[K[A[14C[4ma[24m[24m [38;5;244mbles -L -n -v > ~/lab-practice/firewall/iptables_before.tx[38;5;244mt[39m[K[A[12C[4ma[39m[4mb[24m[4mb[39m[4ml[24m[4ml[39m[4me[24m[4me[39m[4ms[24m[8D[24m[36mi[24m[36mp[24m[36mt[24m[36ma[24m[36mb[24m[36ml[24m[36me[24m[36ms[39m[36ms[36m [39m[36ms[39m[39m [39m-[32m-[39m[32m-[32mA[39m[K[1B[K[A[20C[32mA[32m [39m[32mA[39m[39m INPUT -[32m-[39m[32m-[32mp[39m[32mp[32m [39m[32mp[39m[39m tcp -[32m-[39m[32m-[32m-[39m[32m-[32md[39m[32md[32mp[39m[32mp[32mo[39m[32mo[32mr[39m[32mr[32mt[39m[32mt[32m [39m[32mt[39m[39m 22 -[32m-[39m[32m-[32mj[39m[32mj[32m [39m[32mj[39m[39m ACCEPT[?1l>[?2004l[1B                                                                       ]0;kali@kali: ~/lab-practice
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/lab-practice[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hsudo iptables -A INPUT -p tcp --dport 22 -j ACCEPT[50D[4m[32ms[4m[32mu[4m[32md[4m[32mo[24m[39m [36mi[36mp[36mt[36ma[36mb[36ml[36me[36ms[39m [32m-[32mA[39m[7C[32m-[32mp[39m[5C[32m-[32m-[32md[32mp[32mo[32mr[32mt[39m[4C[32m-[32mj[39m[7C [38;5;244mT[39m [39m [38;5;244mPT[39m [39m [39m [38;5;244mEPT[39m [39m [39m [39m [38;5;244mCEPT[39m [39m [39m [39m [39m [38;5;244mCCEPT[39m [39m [39m [39m [39m [39m [38;5;244mACCEPT[39m[39mD[39m [39m [39m [39m [39m ROP[1C[1C[1C[1C[1C[1C[1C[32m-[32mj[39m[39m DROP [8D[39m-[39mj-j DROP [8D-j DROP [8D[32m-[32mj[39m[39m8[32m-[32mj[39m DROP[39m-[39mj0-j DROP -j DROP[32m-[32mj[39m[?1l>[?2004l
+                                                                       ]0;kali@kali: ~/lab-practice
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/lab-practice[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hsudo iptables -A INPUT -p tcp --dport 80 -j DROP[48D[4m[32ms[4m[32mu[4m[32md[4m[32mo[24m[39m [36mi[36mp[36mt[36ma[36mb[36ml[36me[36ms[39m [32m-[32mA[39m[7C[32m-[32mp[39m[5C[32m-[32m-[32md[32mp[32mo[32mr[32mt[39m[4C[32m-[32mj[39m[5C[10D22[4CACCEPT[35D[32mL[39m -n -v [32m>[32m [39m~/lab[32m-[32mp[32mr[32ma[32mc[32mt[32mi[39mce/f[32mi[32mr[39mewall/iptables_before.txt[K[A[20C[32m-[32mn[39m [32m-[32mv[39m [1m[34m>[0m[39m[39m [1m~[1m/[1ml[1ma[1mb[39m[1m-[39m[1mp[39m[1mr[39m[1ma[39m[1mc[39m[1mt[39m[1mi[1mc[1me[1m/[1mf[39m[1mi[39m[1mr[1me[1mw[1ma[1ml[1ml[1m/[1mi[1mp[1mt[1ma[1mb[1ml[1me[1ms[1m_[1mb[1me[1mf[1mo[1mr[1me[1m.[1mt[1mx[1mt[0m[A[70C[1m.[1mt[1mx[1mt[0m [K[A[66C[38D[0m~[0m/[0ml[0ma[0mb[0m-[0mp[0mr[0ma[0mc[0mt[0mi[0mc[0me[0m/[0mf[0mi[0mr[0me[0mw[0ma[0ml[0ml[0m/[0mi[0mp[0mt[0ma[0mb[0ml[0me[0ms[0m_[0mb[0me[0mf[0mo[0mr[0m.[0mt[0mx[0mt [A[66C.txt[K[1B[K[A[66C.txt .txt .txt .txt A.txt.txt a.txtf.txtt.txte.txtr.txt [K[A[67C[1B[K[A[67C[?1l>[?2004l[1B
+                                                                       ]0;kali@kali: ~/lab-practice
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/lab-practice[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hs[1ms[0m[1ms[0m[38;5;244mudo iptables -L -n -v > ~/lab-practice/firewall/iptables_after.txt[39m [K[A[5C[1ms[39m[1mu[0m[1B[K[A[6C[0m[36ms[0m[36mu[39m[36ms[36mu[36md[39m[39m[4ms[39m[4mu[39m[4md[24m[4md[39m[4mo[24m[4m[32ms[4m[32mu[4m[32md[4m[32mo[24m[39m[4m[32mo[4m[32m [24m[39m[4m[32mo[24m[39m[24m[39m [39mi[4mi[24m[4mi[39m[4mp[24m[24m[36mi[24m[36mp[39m[36mp[36mt[39m[39m[4mi[39m[4mp[39m[4mt[24m[4mt[39m[4mb[24m[K[1B[K[A[13C[4mt[24m[24m [38;5;244mables -L -n -v > ~/lab-practice/firewall/iptables_after.txt[39m [K[A[12C[4mt[39m[4ma[24m[1B[K[A[13C[4ma[39m[4mb[24m[4mb[39m[4ml[24m[4ml[39m[4me[24m[4me[39m[4ms[24m[8D[24m[36mi[24m[36mp[24m[36mt[24m[36ma[24m[36mb[24m[36ml[24m[36me[24m[36ms[39m[36ms[36m [39m[36ms[39m[39m [K[1B[K[A[17C[38;5;244m -L -n -v > ~/lab-practice/firewall/iptables_after.txt[39m [K[A[17C[36ms[36m-[39m[K[1B[K[A[18C[9D[39m[4mi[39m[4mp[39m[4mt[39m[4ma[39m[4mb[39m[4ml[39m[4me[39m[4ms[39m[4m-[24m[4m-[4ms[24m[4ms[4ma[24m[4ma[4mv[24m[4mv[4me[24m[13D[24m[36mi[24m[36mp[24m[36mt[24m[36ma[24m[36mb[24m[36ml[24m[36me[24m[36ms[24m[36m-[24m[36ms[24m[36ma[24m[36mv[24m[36me[39m[36me[36m [39m[36me[39m[39m >[1m[34m>[0m[39m[1m[34m>[1m[34m [0m[39m[1m[34m>[0m[39m[0m[39m ~[1m~[0m[1m~[1m/[0m[1m/[1ml[0m[1ml[1ma[0m[1ma[1mb[0m[1mb[1m-[0m[1m-[1mp[0m[1mp[1mr[0m[1mr[1ma[0m[1ma[1mc[0m[1mc[1mt[0m[1mt[1mi[0m[1mi[1mc[0m[1mc[1me[0m[1me[1m/[0m[1m/[1mf[0m[1mf[1mi[0m[1mi[1mr[0m[1mr[1me[0m[1me[1mw[0m[1mw[1ma[0m[1ma[1ml[0m[1ml[1ml[0m[1ml[1m/[0m[1m/[1mr[0m[25D[0m~[0m/[0ml[0ma[0mb[0m-[0mp[0mr[0ma[0mc[0mt[0mi[0mc[0me[0m/[0mf[0mi[0mr[0me[0mw[0ma[0ml[0ml[0m/[0mrules_saved.txt[?1l>[?2004l[1B                                                                       ]0;kali@kali: ~/lab-practice
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/lab-practice[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hc[4mc[24m[4mc[4mu[24m[4mc[4mu[4mr[24m[4mr[4ml[24m[24m[36mc[24m[36mu[24m[36mr[24m[36ml[39m[36ml[36m [39m[36ml[39m[39m -[32m-[39m[32m-[32mI[39m[32mI[32m [39m[32mI[39m[39m 192.168.56.102:80 >[1m[34m>[0m[39m[1m[34m>[1m[34m [0m[39m[1m[34m>[0m[39m[0m[39m ~[1m~[0m[1m~[1m/[0m[1m/[1ml[0m[1ml[1ma[0m[1ma[1mb[0m[1mb[1m-[0m[1m-[1mp[0m[1mp[1me[0m[8D[0m~[0m/[0ml[0ma[0mb[0m-[0mp[0me [1m~[1m/[1ml[1ma[1mb[1m-[1mp[0m[1mp[1mr[0m[1mr[1ma[0m[1ma[1mc[0m[1mc[1mt[0m[1mt[1mi[0m[1mi[1mc[0m[1mc[1me[0m[1me[1m/[0m[1m/[1mf[0m[1mf[1mi[0m[1mi[1mr[0m[1mr[1me[0m[1me[1mw[0m[1mw[1ma[0m[1ma[1ml[0m[1ml[1ml[0m[1ml[1m/[0m[1m/[1mt[0m[25D[0m~[0m/[0ml[0ma[0mb[0m-[0mp[0mr[0ma[0mc[0mt[0mi[0mc[0me[0m/[0mf[0mi[0mr[0me[0mw[0ma[0ml[0ml[0m/[0mtest_block_80.t [K[Kxxt 2>[1m[34m2[1m[34m>[0m[39m[1m[34m>[1m[34m&[0m[39m[1m[34m&[1m[34m1[0m[39m[1m[34m&[0m[39m[0m[39m1[?1l>[?2004l
+                                                                       ]0;kali@kali: ~/lab-practice
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/lab-practice[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hs[1ms[0m[1ms[0m[38;5;244mudo iptables-save > ~/lab-practice/firewall/rules_saved.txt[39m[59D[1ms[39m[1ms[0m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [58D[0m[36ms[0m[36ms[39m[36ms[36ms[36mh[39m[36mh[36m [39m[36mh[39m[39m -[32m-[39m[32m-[32mo[39m[32mo[32mB[39m[32mB[32ma[39m[32ma[32mt[39m[32mt[32mc[39m[32mc[32mh[39m[32mh[32mM[39m[32mM[32mo[39m[32mo[32md[39m[32md[32me[39m[32me[32m=[39m[32m=[32my[39m[32my[32me[39m[32me[32ms[39m[32ms[32m [39m[32ms[39m[39m = -[32m-[39m[32m-[32mp[39m[32mp[32m [39m[32mp[39m[39m 22 user@192.169 8.56.102 e[1me[0m[1me[1mx[0m[0me[0mxit >[1m[34m>[0m[39m[1m[34m>[1m[34m [0m[39m[1m[34m>[0m[39m[0m[39m ~[1m~[0m[1m~[1m/[0m[1m/[1ml[0m[1ml[1ma[0m[1ma[1mb[0m[1mb[1m-[0m[1m-[1mp[0m[1mp[1mr[0m[1mr[1ma[0m[1ma[1mc[0m[1mc[1mt[0m[1mt[1mi[0m[1mi[1mc[0m[1mc[1me[0m [K[K[A[70C[1me[1m/[0m[1m/[1mf[0m[1m/[1mf[1mi[0m[1mi[1mr[0m[1mr[1me[0m[1me[1mw[0m[1mw[1ma[0m[1ma[1ml[0m[1ml[1ml[0m[1ml[1m/[0m[1m/[1mt[0m[1mt[1me[0m[1me[1ms[0m[1ms[1mt[0m[1mt[1m_[0m[1m_[1ms[0m[A[41C[0m~[0m/[0ml[0ma[0mb[0m-[0mp[0mr[0ma[0mc[0mt[0mi[0mc[0me/[0mf[0mi[0mr[0me[0mw[0ma[0ml[0ml[0m/[0mt[0me[0ms[0mt[0m_[0mssh.txt 2>[1m[34m2[1m[34m>[0m[39m[1m[34m>[1m[34m&[0m[39m[1m[34m&[1m[34m1[0m[39m[1m[34m&[0m[39m[0m[39m1[?1l>[?2004l
+                                                                       ]0;kali@kali: ~/lab-practice
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/lab-practice[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hc[4mc[24m[4mc[24m[38;5;244murl -I 192.168.56.102:80 > ~/lab-practice/firewall/test_block_80.t[38;5;244mx[38;5;244mt 2>&1[39m[K[A[4mc[39m[4mp[24m[K[1B[K[A[6C[24m[36mc[24m[36mp[39m[36mc[36mp[36m [39m[36mc[36mp[39m[39m ~[1m~[0m[1m~[1m/[0m[1m/[1ml[0m[1ml[1ma[0m[1ma[1mb[0m[1mb[1m-[0m[1m-[1mp[0m[1mp[1mr[0m[1mr[1ma[0m[1ma[1mc[0m[1mc[1mt[0m[1mt[1mi[0m[1mi[1mc[0m[1mc[1me[0m[1me[1m/[0m[1m/[1ms[0m[1ms[1mc[0m[1mc[1ma[0m[1ma[1mn[0m[1mn[1ms[0m[1ms[1m/[0m[1m/[1m*[0m[22D[0m~[0m/[0ml[0ma[0mb[0m-[0mp[0mr[0ma[0mc[0mt[0mi[0mc[0me[0m/[0ms[0mc[0ma[0mn[0ms[0m/[1m[34m*[0m[39m[1m[34m*[1m[34m [0m[39m[1m[34m*[0m[39m[0m[39m ~[1m~[0m[1m~[1m/[0m[1m/[1ml[0m[1ml[1ma[0m[1ma[1mb[0m[1mb[1m-[0m[1m-[1mp[0m[1mp[1mr[0m[1mr[1ma[0m[1ma[1mc[0m[1mc[1mt[0m[1mt[1mi[0m[1mi[1mc[0m[1mc[1me[0m[1me[1m/[0m[1m/[1me[0m[1me[1mv[0m[1mv[1mi[0m[1mi[1md[0m[1md[1me[0m[1me[1mn[0m[1mn[1mc[0m[1mc[1me[0m[1me[1m/[0m[1m/[1m2[0m[25D[0m~[0m/[0ml[0ma[0mb[0m-[0mp[0mr[0ma[0mc[0mt[0mi[0mc[0me[0m/[0me[0mv[0mi[0md[0me[0mn[0mc[0me[0m/[0m2>[1m[34m>[0m[39m[1m[34m>[1m[34m/[0m[39m[1m[34m>[0m[39m[39m[1m/[0m[1m/[1md[0m[1md[1me[0m[1me[1mv[0m[1mv[1m/[0m[1m/[1mn[0m[1mn[1mu[0m[1mu[1ml[0m[1ml[1ml[0m[1ml[1m [0m[1ml[0m[0m |[1m[34m|[0m[39m[1m[34m|[1m[34m|[0m[39m[1m[34m|[1m[34m,[0m[39m[1m[34m|[0m[39m[0m[39m[4m,[24m[24m [1m[34m|[1m[34m [0m[39m[1m[34m|[0m[39m[0m[39m t[4mt[24m[4mt[4mr[24m [K[A[69C[24m[36mt[24m[36mr[39m [K[A[70C[36mr[36mu[39m[A[68C[39m[4mt[39m[4mr[4mu[24m[4mu[4me[24m[A[67C[24m[36mt[24m[36mr[36mu[24m[36me[39m[?1l>[?2004l
+cp: target '/home/kali/lab-practice/evidence/2': No such file or directory
+                                                                       ]0;kali@kali: ~/lab-practice
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/lab-practice[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hcp ~/lab-practice/scans/* ~/lab-practice/evidence/2>/dev/null || true[K[A[2C[36mc[36mp[39m[22C[1m[34m*[0m[39m[26C[1m[34m>[0m[39m[1m/[1md[1me[1mv[1m/[1mn[1mu[1ml[1ml[0m [1m[34m|[1m[34m|[0m[39m [36mt[36mr[36mu[36me[39m[A[70C[1C[1C[1C[36mt[36mr[36mu[36me[39m[39m [A[66C[1m[34m|[1m[34m|[0m[39m[0m[36mt[36mr[36mu[36me[39m [K[A[64C[1ml[39m[1m [0m[1m[34m|[1m[34m|[0m[39m[36mt[36mr[36mu[36me[39m[A[65C[1ml[0m[0m [1C[1C[1m[34m [1m[34m|[0m[39m[36mt[36mr[36mu[36me[39m[A[66C[1m[34m|[0m[39m[0m[39m [0m[39m[4m|[24m[4m|[24m[24m[36mt[36mr[36mu[36me[39m[39m [A[65C[1m[34m|[24m[1m[34m|[0m[39m[1C[1m[34m|[1m[34m [0m[39m[36mt[36mr[36mu[36me[39m[A[67C[1m[34m|[0m[39m[0m[39m  [0m[39m2[1m[34m>[0m[39m[1m/[1md[1me[1mv[1m/[1mn[1mu[1ml[1ml[0m[0m[39m [1m[34m|[1m[34m|[0m[39m[39m [36mt[36mr[36mu[36me[39m[A[52C[25D[1m~[1m/[1ml[1ma[1mb[1m-[1mp[1mr[1ma[1mc[1mt[1mi[1mc[1me[1m/[1me[1mv[1mi[1md[1me[1mn[1mc[1me[1m/[0m [1m[34m2[?1l>[?2004l[1B[0m[39m
+                                                                       ]0;kali@kali: ~/lab-practice
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/lab-practice[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hcp ~/lab-practice/scans/* ~/lab-practice/evidence/ 2>/dev/null || true[K[A[1C[36mc[36mp[39m[22C[1m[34m*[0m[39m [1m~[1m/[1ml[1ma[1mb[1m-[1mp[1mr[1ma[1mc[1mt[1mi[1mc[1me[1m/[1me[1mv[1mi[1md[1me[1mn[1mc[1me[1m/[0m [1m[34m2[1m[34m>[0m[39m[1m/[1md[1me[1mv[1m/[1mn[1mu[1ml[1ml[0m [1m[34m|[1m[34m|[0m[39m [36mt[36mr[36mu[36me[39m[A[70C[P[18C[36mr[36mu[36me[39m[39m [A[49C[22D[0m~[0m/[0ml[0ma[0mb[0m-[0mp[0mr[0ma[0mc[0mt[0mi[0mc[0me[0m/[0me[0mv[0mi[0md[0me[0mn[0mc[0m/[P[19C[36mu[36me[39m[39m [A[49C[P[20C[36me[39m [K[A[49C[P[21C[K[1B[K[A[49C[P[21C [22D[P[21C [22D[P[21C [22D[P[21C [22D[15D[1m~[1m/[1ml[1ma[1mb[1m-[1mp[1mr[1ma[1mc[1mt[1mi[1mc[1me[1m/[1m/[0m[1mp[1m/[0m[0m[39m [1m[34m2[1m[34m>[0m[39m[1m/[1md[1me[1mv[1m/[1mn[1mu[1ml[1ml[0m[0m[39m [1m[34m|[1m[34m|[0m[39m[39m [36mt[36mr[36mu[36me[39m[21D[16D[0m~[0m/[0ml[0ma[0mb[0m-[0mp[0mr[0ma[0mc[0mt[0mi[0mc[0me[0m/[0mp[0m/c/[0m[39m [1m[34m2[1m[34m>[0m[39m[1m/[1md[1me[1mv[1m/[1mn[1mu[1ml[1ml[0m[0m[39m [1m[34m|[1m[34m|[0m[39m[39m [36mt[36mr[36mu[36me[39m[21Da/[0m[39m [1m[34m2[1m[34m>[0m[39m[1m/[1md[1me[1mv[1m/[1mn[1mu[1ml[1ml[0m[0m[39m [1m[34m|[1m[34m|[0m[39m[39m [36mt[36mr[36mu[36me[39m[21Dp/[0m[39m [1m[34m2[1m[34m>[0m[39m[1m/[1md[1me[1mv[1m/[1mn[1mu[1ml[1ml[0m[0m[39m [1m[34m|[1m[34m|[0m[39m[39m [36mt[36mr[36mu[36me[39m[21D[19D[1m~[1m/[1ml[1ma[1mb[1m-[1mp[1mr[1ma[1mc[1mt[1mi[1mc[1me[1m/[1mp[1mc[1ma[1mp[1m/[0m[?1l>[?2004l[1B                                                                       ]0;kali@kali: ~/lab-practice
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/lab-practice[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hcp ~/lab-practice/scans/* ~/lab-practice/pcap/ 2>/dev/null || true[66D[36mc[36mp[39m[22C[1m[34m*[0m[39m [1m~[1m/[1ml[1ma[1mb[1m-[1mp[1mr[1ma[1mc[1mt[1mi[1mc[1me[1m/[1mp[1mc[1ma[1mp[1m/[0m [1m[34m2[1m[34m>[0m[39m[1m/[1md[1me[1mv[1m/[1mn[1mu[1ml[1ml[0m [1m[34m|[1m[34m|[0m[39m [36mt[36mr[36mu[36me[39m[P[21C [22D[18D[0m~[0m/[0ml[0ma[0mb[0m-[0mp[0mr[0ma[0mc[0mt[0mi[0mc[0me[0m/[0mp[0mc[0ma[0m/[P[21C [22D[P[21C [22D[P[21C [22D[15D[1m~[1m/[1ml[1ma[1mb[1m-[1mp[1mr[1ma[1mc[1mt[1mi[1mc[1me[1m/[1m/[0m[1mf[1m/[0m[0m[39m [1m[34m2[1m[34m>[0m[39m[1m/[1md[1me[1mv[1m/[1mn[1mu[1ml[1ml[0m[0m[39m [1m[34m|[1m[34m|[0m[39m[39m [36mt[36mr[36mu[36me[39m[21D[16D[0m~[0m/[0ml[0ma[0mb[0m-[0mp[0mr[0ma[0mc[0mt[0mi[0mc[0me[0m/[0mf[0m/i/[0m[39m [1m[34m2[1m[34m>[0m[39m[1m/[1md[1me[1mv[1m/[1mn[1mu[1ml[1ml[0m[0m[39m [1m[34m|[1m[34m|[0m[39m[39m [36mt[36mr[36mu[36me[39m[21Dr/[0m[39m [1m[34m2[1m[34m>[0m[39m[1m/[1md[1me[1mv[1m/[1mn[1mu[1ml[1ml[0m[0m[39m [1m[34m|[1m[34m|[0m[39m[39m [36mt[36mr[36mu[36me[39m[21De/[0m[39m [1m[34m2[1m[34m>[0m[39m[1m/[1md[1me[1mv[1m/[1mn[1mu[1ml[1ml[0m[0m[39m [1m[34m|[1m[34m|[0m[39m[39m [36mt[36mr[36mu[36me[39m[21Dw/[0m[39m [1m[34m2[1m[34m>[0m[39m[1m/[1md[1me[1mv[1m/[1mn[1mu[1ml[1ml[0m[0m[39m [1m[34m|[1m[34m|[0m[39m[39m [36mt[36mr[36mu[36me[39m [K[A[50C[1B[K[A[50Ca/[0m[39m [1m[34m2[1m[34m>[0m[39m[1m/[1md[1me[1mv[1m/[1mn[1mu[1ml[1ml[0m[0m[39m [1m[34m|[1m[34m|[0m[39m[39m [36mt[36mr[36mu[36me[39m[A[50Cl/[0m[39m [1m[34m2[1m[34m>[0m[39m[1m/[1md[1me[1mv[1m/[1mn[1mu[1ml[1ml[0m[0m[39m [1m[34m|[1m[34m|[0m[39m[39m [36mt[36mr[36mu[36me[39m[A[50Cl/[0m[39m [1m[34m2[1m[34m>[0m[39m[1m/[1md[1me[1mv[1m/[1mn[1mu[1ml[1ml[0m[0m[39m [1m[34m|[1m[34m|[0m[39m[39m [36mt[36mr[36mu[36me[39m[A[50C[23D[1m~[1m/[1ml[1ma[1mb[1m-[1mp[1mr[1ma[1mc[1mt[1mi[1mc[1me[1m/[1mf[1mi[1mr[1me[1mw[1ma[1ml[1ml[1m/[0m[?1l>[?2004l[1B
+                                                                       ]0;kali@kali: ~/lab-practice
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/lab-practice[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004he[1me[0m[1me[0m[38;5;244mcho -e "HEAD / HTTP/1.0\n\n" | nc 192.168.56.101 80 > ~/lab-practi[38;5;244mc[38;5;244me/scans/banner_http.txt[39m[K[A[19D[1me[39m[1mx[0m[K[1B[K[A[6C[0m[36me[0m[36mx[39m[36me[36mx[36mi[39m[39m[4me[39m[4mx[39m[4mi[24m[4mi[4mt[24m[24m[36me[24m[36mx[24m[36mi[24m[36mt[39m[?1l>[?2004l[1B
+Script done on 2025-09-28 16:20:16+05:30 [COMMAND_EXIT_CODE="0"]
